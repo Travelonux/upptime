@@ -21,8 +21,6 @@ sites:
 
   - name: MeVuelo BO
     url: https://www.mevuelo.com.bo
-  - name: Admin MeVuelo BO
-    url: https://admin.mevuelo.com.bo
 
   - name: EGA-Keguay
     url: https://egakeguay.com
