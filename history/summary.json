@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/www.mevuelo.com",
     "slug": "me-vuelo",
     "status": "down",
-    "uptime": "10.02%",
-    "uptimeDay": "10.02%",
-    "uptimeWeek": "10.02%",
-    "uptimeMonth": "10.02%",
-    "uptimeYear": "10.02%",
+    "uptime": "0.68%",
+    "uptimeDay": "0.68%",
+    "uptimeWeek": "0.68%",
+    "uptimeMonth": "0.68%",
+    "uptimeYear": "0.68%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-16": 0
+      "2022-02-16": 4
     }
   },
   {
@@ -133,18 +133,18 @@
     "icon": "https://favicons.githubusercontent.com/admin.mevuelo.com.bo",
     "slug": "admin-me-vuelo-bo",
     "status": "down",
-    "uptime": "8.22%",
-    "uptimeDay": "8.22%",
-    "uptimeWeek": "8.22%",
-    "uptimeMonth": "8.22%",
-    "uptimeYear": "8.22%",
+    "uptime": "0.38%",
+    "uptimeDay": "0.38%",
+    "uptimeWeek": "0.38%",
+    "uptimeMonth": "0.38%",
+    "uptimeYear": "0.38%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-16": 0
+      "2022-02-16": 4
     }
   },
   {
