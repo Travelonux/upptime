@@ -1,22 +1,42 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: Travelonux # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Landing
+    url: https://travelonux.com
+
+  - name: MeVuelo
+    url: https://www.mevuelo.com
+
+  - name: MeVuelo UY
+    url: https://www.mevuelo.com.uy
+  - name: Admin MeVuelo UY
+    url: https://admin.mevuelo.com.uy
+
+  - name: MeVuelo PY
+    url: https://www.mevuelo.com.py
+  - name: Admin MeVuelo PY
+    url: https://admin.mevuelo.com.py
+
+  - name: MeVuelo BO
+    url: https://www.mevuelo.com.bo
+  - name: Admin MeVuelo BO
+    url: https://admin.mevuelo.com.bo
+
+  - name: EGA-Keguay
+    url: https://egakeguay.com
+  - name: Admin EGA-Keguay
+    url: https://admin.egakeguay.com
+
+assignees:
+  - rodobarcaaa
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  # cname: demo.upptime.js.org
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
