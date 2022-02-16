@@ -22,10 +22,55 @@ sites:
   - name: MeVuelo BO
     url: https://www.mevuelo.com.bo
 
+  - name: MeVuelo Core API
+    url: https://api-mevuelo-core.travelonux.com/status
+  - name: MeVuelo Hotels API
+    url: https://api-mevuelo-hotels.travelonux.com/status
+  - name: MeVuelo Hotels API
+    url: https://api-mevuelo-hotels.travelonux.com/status
+  - name: MeVuelo Packages API
+    url: https://api-mevuelo-packages.travelonux.com/status
+  - name: MeVuelo Destinations API
+    url: https://mevuelo-destinations-cms.travelonux.com
+
+  - name: Bus Turístico
+    url: https://www.busturisticomontevideo.com.uy
+  - name: Bus Turístico Admin
+    url: https://admin-busturistico.travelonux.com
+
+  - name: StayPY
+    url: https://www.paraguay.staypy.com
+  - name: StayPY Admin
+    url: https://admin-staypy.travelonux.com
+
+  - name: Hk-Viajes
+    url: https://www.hkviajes.com
+  - name: Hk-Viajes Admin
+    url: https://admin-hkviajes.travelonux.com
+
+  - name: Me Quedo Acá (DEMOS)
+    url: https://mequedoaca.travelonux.com
+  - name: Me Quedo Acá Admin (DEMOS)
+    url: https://admin-mequedoaca.travelonux.com
+
+  - name: Agencys API
+    url: https://api-agencys.travelonux.com/status
+
+  - name: Delta ARG/UY
+    url: https://www.deltaargentinauruguay.com
+  - name: Delta ARG/UY Admin
+    url: https://admin-delta.travelonux.com
+  - name: Delta API
+    url: https://api-delta.travelonux.com/status
+
   - name: EGA-Keguay
     url: https://egakeguay.com
-  - name: Admin EGA-Keguay
+  - name: EGA-Keguay Admin
     url: https://admin.egakeguay.com
+  - name: EGA Core API
+    url: https://ega-core-api.travelonux.com/status
+  - name: EGA Excursions API
+    url: https://ega-excursions-api.travelonux.com/status
 
 assignees:
   - rodobarcaaa
@@ -33,8 +78,8 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  cname: sites-status.travelonux.com
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
