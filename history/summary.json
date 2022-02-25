@@ -130,18 +130,20 @@
     "url": "https://api-mevuelo-core.travelonux.com/status",
     "icon": "https://favicons.githubusercontent.com/api-mevuelo-core.travelonux.com",
     "slug": "me-vuelo-core-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 805,
-    "timeWeek": 700,
-    "timeMonth": 741,
-    "timeYear": 741,
-    "dailyMinutesDown": {}
+    "time": 759,
+    "timeDay": 904,
+    "timeWeek": 730,
+    "timeMonth": 759,
+    "timeYear": 759,
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "MeVuelo Hotels API",
