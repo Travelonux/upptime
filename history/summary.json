@@ -131,19 +131,17 @@
     "icon": "https://favicons.githubusercontent.com/api-mevuelo-core.travelonux.com",
     "slug": "me-vuelo-core-api",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 750,
     "timeDay": 809,
     "timeWeek": 720,
     "timeMonth": 750,
     "timeYear": 750,
-    "dailyMinutesDown": {
-      "2022-02-25": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MeVuelo Hotels API",
@@ -294,9 +292,9 @@
     "url": "https://www.hkviajes.com",
     "icon": "https://favicons.githubusercontent.com/www.hkviajes.com",
     "slug": "hk-viajes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -305,7 +303,9 @@
     "timeWeek": 726,
     "timeMonth": 778,
     "timeYear": 778,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-25": 0
+    }
   },
   {
     "name": "Hk-Viajes Admin",
