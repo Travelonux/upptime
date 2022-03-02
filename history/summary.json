@@ -184,9 +184,9 @@
     "url": "https://api-mevuelo-packages.travelonux.com/status",
     "icon": "https://favicons.githubusercontent.com/api-mevuelo-packages.travelonux.com",
     "slug": "me-vuelo-packages-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +195,9 @@
     "timeWeek": 581,
     "timeMonth": 603,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-02": 0
+    }
   },
   {
     "name": "MeVuelo Destinations API",
