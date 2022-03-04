@@ -228,19 +228,19 @@
     "url": "https://api-mevuelo-packages.travelonux.com/v1/mevuelo/frontend/packages/simples?departure=MVD&api_key=60f8b35a-2e1e-48d3-939f-41dece9aa5d4&resolution=1",
     "icon": "https://favicons.githubusercontent.com/api-mevuelo-packages.travelonux.com",
     "slug": "me-vuelo-packages-availability-mvd-mobile",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2487,
-    "timeDay": 1646,
-    "timeWeek": 2487,
-    "timeMonth": 2487,
-    "timeYear": 2487,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 2843,
+    "timeDay": 2401,
+    "timeWeek": 2843,
+    "timeMonth": 2843,
+    "timeYear": 2843,
     "dailyMinutesDown": {
-      "2022-03-04": 0
+      "2022-03-04": 11
     }
   },
   {
@@ -248,19 +248,19 @@
     "url": "https://api-mevuelo-packages.travelonux.com/v1/mevuelo/frontend/packages/simples?departure=ASU&api_key=ebfc5bcd-c798-4a53-a45a-5118f8a1e377&resolution=1",
     "icon": "https://favicons.githubusercontent.com/api-mevuelo-packages.travelonux.com",
     "slug": "me-vuelo-packages-availability-asu-mobile",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1232,
-    "timeDay": 821,
-    "timeWeek": 1232,
-    "timeMonth": 1232,
-    "timeYear": 1232,
+    "status": "up",
+    "uptime": "99.28%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.28%",
+    "uptimeYear": "99.28%",
+    "time": 1650,
+    "timeDay": 1515,
+    "timeWeek": 1650,
+    "timeMonth": 1650,
+    "timeYear": 1650,
     "dailyMinutesDown": {
-      "2022-03-04": 0
+      "2022-03-04": 11
     }
   },
   {
