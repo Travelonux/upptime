@@ -24,8 +24,8 @@ sites:
 
   - name: MeVuelo Core API
     url: https://api-mevuelo-core.travelonux.com/status
-  - name: MeVuelo Hotels API
-    url: https://api-mevuelo-hotels.travelonux.com/status
+  - name: MeVuelo Flights API
+    url: https://api-mevuelo-flights.travelonux.com/status
   - name: MeVuelo Hotels API
     url: https://api-mevuelo-hotels.travelonux.com/status
   - name: MeVuelo Packages API
