@@ -18,6 +18,9 @@ sites:
     url: https://www.mevuelo.com.py
   - name: Admin MeVuelo PY
     url: https://admin.mevuelo.com.py
+ 
+  - name: Admin MeVuelo UY (Cloudfront)
+    url: https://d2yrbe4ll48v8n.cloudfront.net/
 
   - name: MeVuelo BO
     url: https://www.mevuelo.com.bo
