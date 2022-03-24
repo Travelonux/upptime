@@ -7,7 +7,7 @@ sites:
     url: https://travelonux.com
 
   - name: MeVuelo
-    url: https://mevuelo.com
+    url: https://www.mevuelo.com
 
   - name: MeVuelo UY
     url: https://www.mevuelo.com.uy
@@ -18,9 +18,6 @@ sites:
     url: https://www.mevuelo.com.py
   - name: Admin MeVuelo PY
     url: https://admin.mevuelo.com.py
- 
-  - name: Admin MeVuelo UY (Cloudfront)
-    url: https://d2yrbe4ll48v8n.cloudfront.net/
 
   - name: MeVuelo BO
     url: https://www.mevuelo.com.bo
