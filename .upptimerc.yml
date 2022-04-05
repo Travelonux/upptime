@@ -72,11 +72,6 @@ sites:
   - name: Bus Turístico Admin
     url: https://admin-busturistico.travelonux.com
 
-  - name: StayPY
-    url: https://www.paraguay.staypy.com
-  - name: StayPY Admin
-    url: https://admin-staypy.travelonux.com
-
   - name: Hk-Viajes
     url: https://www.hkviajes.com
   - name: Hk-Viajes Admin
