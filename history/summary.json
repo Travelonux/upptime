@@ -245,11 +245,11 @@
     "icon": "https://favicons.githubusercontent.com/api-mevuelo-packages.travelonux.com",
     "slug": "me-vuelo-packages-availability-mvd-mobile",
     "status": "up",
-    "uptime": "82.93%",
+    "uptime": "82.95%",
     "uptimeDay": "98.08%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "82.93%",
+    "uptimeYear": "82.95%",
     "time": 1004,
     "timeDay": 249,
     "timeWeek": 198,
@@ -273,11 +273,11 @@
     "icon": "https://favicons.githubusercontent.com/api-mevuelo-packages.travelonux.com",
     "slug": "me-vuelo-packages-availability-asu-mobile",
     "status": "up",
-    "uptime": "82.93%",
+    "uptime": "82.96%",
     "uptimeDay": "98.08%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "82.93%",
+    "uptimeYear": "82.96%",
     "time": 535,
     "timeDay": 258,
     "timeWeek": 202,
@@ -300,10 +300,10 @@
     "url": "https://www.busturisticomontevideo.com.uy",
     "icon": "https://favicons.githubusercontent.com/www.busturisticomontevideo.com.uy",
     "slug": "bus-turistico",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 1147,
@@ -312,6 +312,7 @@
     "timeMonth": 1139,
     "timeYear": 1147,
     "dailyMinutesDown": {
+      "2022-04-19": 1,
       "2022-03-11": 40
     }
   },
@@ -320,10 +321,10 @@
     "url": "https://admin-busturistico.travelonux.com",
     "icon": "https://favicons.githubusercontent.com/admin-busturistico.travelonux.com",
     "slug": "bus-turistico-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 748,
@@ -331,16 +332,18 @@
     "timeWeek": 821,
     "timeMonth": 759,
     "timeYear": 748,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 1
+    }
   },
   {
     "name": "Hk-Viajes",
     "url": "https://www.hkviajes.com",
     "icon": "https://favicons.githubusercontent.com/www.hkviajes.com",
     "slug": "hk-viajes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -350,6 +353,7 @@
     "timeMonth": 800,
     "timeYear": 790,
     "dailyMinutesDown": {
+      "2022-04-19": 0,
       "2022-02-25": 21
     }
   },
@@ -358,9 +362,9 @@
     "url": "https://admin-hkviajes.travelonux.com",
     "icon": "https://favicons.githubusercontent.com/admin-hkviajes.travelonux.com",
     "slug": "hk-viajes-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -369,16 +373,18 @@
     "timeWeek": 832,
     "timeMonth": 754,
     "timeYear": 745,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Me Quedo Acá (DEMOS)",
     "url": "https://mequedoaca.travelonux.com",
     "icon": "https://favicons.githubusercontent.com/mequedoaca.travelonux.com",
     "slug": "me-quedo-aca-demos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -387,16 +393,18 @@
     "timeWeek": 844,
     "timeMonth": 773,
     "timeYear": 768,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Me Quedo Acá Admin (DEMOS)",
     "url": "https://admin-mequedoaca.travelonux.com",
     "icon": "https://favicons.githubusercontent.com/admin-mequedoaca.travelonux.com",
     "slug": "me-quedo-aca-admin-demos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -405,16 +413,18 @@
     "timeWeek": 812,
     "timeMonth": 751,
     "timeYear": 741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Agencys API",
     "url": "https://api-agencys.travelonux.com/status",
     "icon": "https://favicons.githubusercontent.com/api-agencys.travelonux.com",
     "slug": "agencys-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -423,34 +433,38 @@
     "timeWeek": 746,
     "timeMonth": 722,
     "timeYear": 716,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Delta ARG/UY",
     "url": "https://www.deltaargentinauruguay.com",
     "icon": "https://favicons.githubusercontent.com/www.deltaargentinauruguay.com",
     "slug": "delta-arg-uy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 703,
-    "timeDay": 855,
-    "timeWeek": 759,
-    "timeMonth": 712,
-    "timeYear": 703,
-    "dailyMinutesDown": {}
+    "time": 698,
+    "timeDay": 605,
+    "timeWeek": 708,
+    "timeMonth": 702,
+    "timeYear": 698,
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Delta ARG/UY Admin",
     "url": "https://admin-delta.travelonux.com",
     "icon": "https://favicons.githubusercontent.com/admin-delta.travelonux.com",
     "slug": "delta-arg-uy-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -459,16 +473,18 @@
     "timeWeek": 851,
     "timeMonth": 772,
     "timeYear": 767,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "Delta API",
     "url": "https://api-delta.travelonux.com/status",
     "icon": "https://favicons.githubusercontent.com/api-delta.travelonux.com",
     "slug": "delta-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -477,7 +493,9 @@
     "timeWeek": 744,
     "timeMonth": 721,
     "timeYear": 715,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-19": 0
+    }
   },
   {
     "name": "EGA-Keguay",
