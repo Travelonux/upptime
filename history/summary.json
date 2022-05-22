@@ -135,19 +135,19 @@
     "url": "https://api-mevuelo-core.travelonux.com/status",
     "icon": "https://favicons.githubusercontent.com/api-mevuelo-core.travelonux.com",
     "slug": "me-vuelo-core-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 762,
-    "timeDay": 731,
-    "timeWeek": 741,
-    "timeMonth": 748,
-    "timeYear": 762,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.98%",
+    "time": 761,
+    "timeDay": 703,
+    "timeWeek": 731,
+    "timeMonth": 745,
+    "timeYear": 761,
     "dailyMinutesDown": {
-      "2022-05-22": 0
+      "2022-05-22": 26
     }
   },
   {
