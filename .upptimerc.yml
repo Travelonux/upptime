@@ -56,13 +56,6 @@ sites:
   - name: Agencys API
     url: https://api-agencys.travelonux.com/status
 
-  - name: Delta ARG/UY
-    url: https://www.deltaargentinauruguay.com
-  - name: Delta ARG/UY Admin
-    url: https://admin-delta.travelonux.com
-  - name: Delta API
-    url: https://api-delta.travelonux.com/status
-
   - name: EGA-Keguay
     url: https://egakeguay.com
   - name: EGA-Keguay Admin
