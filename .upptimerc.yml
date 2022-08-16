@@ -21,6 +21,8 @@ sites:
 
   - name: MeVuelo BO
     url: https://www.mevuelo.com.bo
+  - name: Admin MeVuelo BO
+    url: https://admin.mevuelo.com.bo
 
   - name: MeVuelo Core API
     url: https://api-mevuelo-core.travelonux.com/status
@@ -55,15 +57,6 @@ sites:
 
   - name: Agencys API
     url: https://api-agencys.travelonux.com/status
-
-  - name: EGA-Keguay
-    url: https://egakeguay.com
-  - name: EGA-Keguay Admin
-    url: https://admin.egakeguay.com
-  - name: EGA Core API
-    url: https://ega-core-api.travelonux.com/status
-  - name: EGA Excursions API
-    url: https://ega-excursions-api.travelonux.com/status
 
 assignees:
   - rodobarcaaa
