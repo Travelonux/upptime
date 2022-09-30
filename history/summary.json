@@ -139,18 +139,20 @@
     "url": "https://admin.mevuelo.com.bo",
     "icon": "https://favicons.githubusercontent.com/admin.mevuelo.com.bo",
     "slug": "admin-me-vuelo-bo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 0,
-    "timeWeek": 227,
-    "timeMonth": 513,
-    "timeYear": 432,
-    "dailyMinutesDown": {}
+    "time": 461,
+    "timeDay": 1771,
+    "timeWeek": 448,
+    "timeMonth": 554,
+    "timeYear": 461,
+    "dailyMinutesDown": {
+      "2022-09-30": 1
+    }
   },
   {
     "name": "MeVuelo Core API",
@@ -159,9 +161,9 @@
     "slug": "me-vuelo-core-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "96.20%",
-    "uptimeWeek": "99.46%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "97.08%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.97%",
     "time": 782,
     "timeDay": 756,
@@ -169,7 +171,7 @@
     "timeMonth": 785,
     "timeYear": 782,
     "dailyMinutesDown": {
-      "2022-09-29": 55,
+      "2022-09-29": 42,
       "2022-06-09": 15,
       "2022-05-22": 26
     }
