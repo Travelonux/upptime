@@ -386,9 +386,9 @@
     "url": "https://www.hkviajes.com",
     "icon": "https://favicons.githubusercontent.com/www.hkviajes.com",
     "slug": "hk-viajes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "80.55%",
     "uptimeMonth": "95.52%",
     "uptimeYear": "99.28%",
@@ -398,6 +398,7 @@
     "timeMonth": 830,
     "timeYear": 803,
     "dailyMinutesDown": {
+      "2022-10-01": 0,
       "2022-09-26": 766,
       "2022-09-25": 1195,
       "2022-06-26": 18,
@@ -472,18 +473,17 @@
     "icon": "https://favicons.githubusercontent.com/api-agencys.travelonux.com",
     "slug": "agencys-api",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 731,
     "timeDay": 677,
     "timeWeek": 665,
     "timeMonth": 760,
     "timeYear": 731,
     "dailyMinutesDown": {
-      "2022-10-01": 12,
       "2022-04-19": 45
     }
   }
