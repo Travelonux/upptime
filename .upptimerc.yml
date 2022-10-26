@@ -13,6 +13,11 @@ sites:
     url: https://www.mevuelo.com.uy
   - name: Admin MeVuelo UY
     url: https://admin.mevuelo.com.uy
+    
+  - name: MeVuelo UY (testing)
+    url: https://mv-uruguay-testing.travelonux.com
+  - name: Admin MeVuelo UY (testing)
+    url: https://admin-mv-uruguay-testing.travelonux.com
 
   - name: MeVuelo PY
     url: https://www.mevuelo.com.py
