@@ -37,7 +37,7 @@ sites:
   - name: MeVuelo BO(testing)
     url: https://mv-bolivia-testing.travelonux.com
   - name: Admin MeVuelo BO(testing)
-    https://admin-mv-bolivia-testing.travelonux.com
+    url: https://admin-mv-bolivia-testing.travelonux.com
     
   - name: MeVuelo CO (testing)
     url: https://mv-colombia-testing.travelonux.com
