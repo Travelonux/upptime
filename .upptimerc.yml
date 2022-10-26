@@ -51,9 +51,9 @@ sites:
   - name: MeVuelo Hotels API
     url: https://api-mevuelo-hotels.travelonux.com/status
   - name: MeVuelo Packages API
-    url: https://api-mevuelo-packages.travelonux.com/healthcheck
+    url: https://api-mevuelo-packages.travelonux.com/status
   - name: MeVuelo CRM API
-    url: https://api-mevuelo-crm.travelonux.com/status
+    url: https://api-mevuelo-crm.travelonux.com/healthcheck
   - name: MeVuelo Destinations API
     url: https://mevuelo-destinations-cms.travelonux.com
     
