@@ -23,11 +23,26 @@ sites:
     url: https://www.mevuelo.com.py
   - name: Admin MeVuelo PY
     url: https://admin.mevuelo.com.py
+    
+  - name: MeVuelo PY(testing)
+    url: https://mv-paraguay-testing.travelonux.com/
+  - name: Admin MeVuelo PY(testing)
+    url: https://admin-mv-paraguay-testing.travelonux.com/
 
   - name: MeVuelo BO
     url: https://www.mevuelo.com.bo
   - name: Admin MeVuelo BO
     url: https://admin.mevuelo.com.bo
+    
+  - name: MeVuelo BO(testing)
+    url: https://mv-bolivia-testing.travelonux.com/
+  - name: Admin MeVuelo BO(testing)
+    https://admin-mv-bolivia-testing.travelonux.com/
+    
+  - name: MeVuelo CO (testing)
+    url: https://mv-colombia-testing.travelonux.com/
+  - name: Admin MeVuelo CO (testing)
+    url: https://admin-mv-colombia-testing.travelonux.com/
 
   - name: MeVuelo Core API
     url: https://api-mevuelo-core.travelonux.com/status
