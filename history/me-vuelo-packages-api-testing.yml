@@ -1,7 +1,7 @@
 url: https://api-mevuelo-packages-testing.travelonux.com/status
-status: down
-code: 502
-responseTime: 292
-lastUpdated: 2022-12-06T15:00:51.058Z
+status: up
+code: 200
+responseTime: 872
+lastUpdated: 2022-12-06T15:11:44.090Z
 startTime: Wed Oct 26 2022 21:54:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
