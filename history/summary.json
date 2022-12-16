@@ -805,19 +805,19 @@
     "url": "https://api-agencys.travelonux.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api-agencys.travelonux.com.ico",
     "slug": "agencys-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 742,
-    "timeDay": 845,
-    "timeWeek": 770,
-    "timeMonth": 779,
+    "timeDay": 874,
+    "timeWeek": 788,
+    "timeMonth": 783,
     "timeYear": 742,
     "dailyMinutesDown": {
-      "2022-12-16": 1,
+      "2022-12-16": 11,
       "2022-04-19": 45
     }
   }
