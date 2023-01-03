@@ -1,7 +1,7 @@
 url: https://api-mevuelo-flights-testing.travelonux.com/status
-status: down
-code: 502
-responseTime: 330
-lastUpdated: 2023-01-03T09:01:28.713Z
+status: up
+code: 200
+responseTime: 821
+lastUpdated: 2023-01-03T09:12:02.802Z
 startTime: Wed Oct 26 2022 21:54:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
