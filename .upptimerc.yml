@@ -78,24 +78,6 @@ sites:
   - name: MeVuelo Packages Availability (ASU - Mobile)
     url: https://api-mevuelo-packages.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=ASU&api_key=ebfc5bcd-c798-4a53-a45a-5118f8a1e377&resolution=1
 
-  - name: Bus Turístico
-    url: https://www.busturisticomontevideo.com.uy
-  - name: Bus Turístico Admin
-    url: https://admin-busturistico.travelonux.com
-
-  - name: Hk-Viajes
-    url: https://www.hkviajes.com
-  - name: Hk-Viajes Admin
-    url: https://admin-hkviajes.travelonux.com
-
-  - name: Me Quedo Acá (DEMOS)
-    url: https://mequedoaca.travelonux.com
-  - name: Me Quedo Acá Admin (DEMOS)
-    url: https://admin-mequedoaca.travelonux.com
-
-  - name: Agencys API
-    url: https://api-agencys.travelonux.com/status
-
 assignees:
   - Cinolkis
 
