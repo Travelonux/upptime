@@ -1,7 +1,7 @@
 url: https://api-mevuelo-crm-testing.travelonux.com/healthcheck
 status: down
-code: 404
-responseTime: 404
-lastUpdated: 2023-01-17T20:20:25.540Z
+code: 0
+responseTime: 0
+lastUpdated: 2023-01-17T23:03:40.847Z
 startTime: Wed Oct 26 2022 21:54:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
