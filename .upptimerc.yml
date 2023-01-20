@@ -49,34 +49,40 @@ sites:
   - name: Admin MeVuelo CO (testing)
     url: https://admin-mv-colombia-testing.travelonux.com
 
-  - name: MeVuelo Core API
-    url: https://api-mevuelo-core.travelonux.com/status
-  - name: MeVuelo Flights API
-    url: https://api-mevuelo-flights.travelonux.com/status
-  - name: MeVuelo Hotels API
-    url: https://api-mevuelo-hotels.travelonux.com/status
-  - name: MeVuelo Packages API
-    url: https://api-mevuelo-packages.travelonux.com/status
-  - name: MeVuelo CRM API
-    url: https://api-mevuelo-crm.travelonux.com/healthcheck
-  - name: MeVuelo Destinations API
-    url: https://mevuelo-destinations-cms.travelonux.com
+  - name: MeVuelo Core API (production)
+    url: https://api.core.production.travelonux.com/status
+  - name: MeVuelo Flights API (production)
+    url: https://api.flights.production.travelonux.com/status
+  - name: MeVuelo Hotels API (production)
+    url: https://api.hotels.production.travelonux.com/status
+  - name: MeVuelo Hotels Proxy API (production)
+    url: https://api.hotels-proxy.production.travelonux.com/status    
+  - name: MeVuelo Packages API (production)
+    url: https://api.packages.production.travelonux.com/status
+  - name: MeVuelo CRM API (production)
+    url: https://api.crm.production.travelonux.com/healthcheck
+  - name: MeVuelo Destinations API (production)
+    url: https://destinations-cms.production.travelonux.com
     
   - name: MeVuelo Core API (testing)
-    url: https://api-mevuelo-testing.travelonux.com/status
+    url: https://api.core.testing.travelonux.com/status
   - name: MeVuelo Flights API (testing)
-    url: https://api-mevuelo-flights-testing.travelonux.com/status
+    url: https://api.flights.testing.travelonux.com/status
   - name: MeVuelo Hotels API (testing)
-    url: https://api-mevuelo-hotels-testing.travelonux.com/status
+    url: https://api.hotels.testing.travelonux.com/status
+  - name: MeVuelo Hotels Proxy API (testing)
+    url: https://api.hotels-proxy.testing.travelonux.com/status    
   - name: MeVuelo Packages API (testing)
-    url: https://api-mevuelo-packages-testing.travelonux.com/status
+    url: https://api.packages.testing.travelonux.com/status
   - name: MeVuelo CRM API (testing)
-    url: https://api-mevuelo-crm-testing.travelonux.com/healthcheck
+    url: https://api.crm.testing.travelonux.com/healthcheck
+  - name: MeVuelo Destinations API (testing)
+    url: https://destinations-cms.testing.travelonux.com
     
   - name: MeVuelo Packages Availability (MVD - Mobile)
-    url: https://api-mevuelo-packages.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=MVD&api_key=60f8b35a-2e1e-48d3-939f-41dece9aa5d4&resolution=1
+    url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=MVD&api_key=60f8b35a-2e1e-48d3-939f-41dece9aa5d4&resolution=1
   - name: MeVuelo Packages Availability (ASU - Mobile)
-    url: https://api-mevuelo-packages.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=ASU&api_key=ebfc5bcd-c798-4a53-a45a-5118f8a1e377&resolution=1
+    url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=ASU&api_key=ebfc5bcd-c798-4a53-a45a-5118f8a1e377&resolution=1
 
 assignees:
   - Cinolkis
