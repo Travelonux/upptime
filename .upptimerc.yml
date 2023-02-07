@@ -53,6 +53,8 @@ sites:
     url: https://api.core.production.travelonux.com/status
   - name: MeVuelo Flights API (production)
     url: https://api.flights.production.travelonux.com/status
+  - name: MeVuelo Internal Flights API (production)
+    url: https://api.internal-flights.production.travelonux.com/status    
   - name: MeVuelo Hotels API (production)
     url: https://api.hotels.production.travelonux.com/status
   - name: MeVuelo Hotels Proxy API (production)
@@ -68,6 +70,8 @@ sites:
     url: https://api.core.testing.travelonux.com/status
   - name: MeVuelo Flights API (testing)
     url: https://api.flights.testing.travelonux.com/status
+  - name: MeVuelo Internal Flights API (testing)
+    url: https://api.internal-flights.testing.travelonux.com/status        
   - name: MeVuelo Hotels API (testing)
     url: https://api.hotels.testing.travelonux.com/status
   - name: MeVuelo Hotels Proxy API (testing)
