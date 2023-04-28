@@ -48,6 +48,11 @@ sites:
     url: https://mv-colombia-testing.travelonux.com
   - name: Admin MeVuelo CO (testing)
     url: https://admin-mv-colombia-testing.travelonux.com
+    
+  - name: Power (production)
+    url: https://power.mevuelo.com
+  - name: Power (testing)
+    url: https://power-testing.travelonux.com
 
   - name: MeVuelo Core API (production)
     url: https://api.core.production.travelonux.com/status
