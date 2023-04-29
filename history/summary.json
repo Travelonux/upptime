@@ -46,19 +46,19 @@
     "url": "https://www.mevuelo.com.uy",
     "icon": "https://icons.duckduckgo.com/ip3/www.mevuelo.com.uy.ico",
     "slug": "me-vuelo-uy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 251,
-    "timeWeek": 265,
-    "timeMonth": 511,
-    "timeYear": 463,
+    "time": 531,
+    "timeDay": 222,
+    "timeWeek": 257,
+    "timeMonth": 501,
+    "timeYear": 462,
     "dailyMinutesDown": {
-      "2023-04-29": 1
+      "2023-04-29": 11
     }
   },
   {
@@ -712,7 +712,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.packages.testing.travelonux.com.ico",
     "slug": "me-vuelo-packages-api-testing",
     "status": "up",
-    "uptime": "97.94%",
+    "uptime": "97.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
