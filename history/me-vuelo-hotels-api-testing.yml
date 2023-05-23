@@ -1,7 +1,7 @@
 url: https://api.hotels.testing.travelonux.com/status
-status: up
-code: 200
-responseTime: 578
-lastUpdated: 2023-05-23T04:11:00.169Z
+status: down
+code: 502
+responseTime: 309
+lastUpdated: 2023-05-23T05:05:37.828Z
 startTime: Wed Oct 26 2022 21:54:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
