@@ -1,7 +1,7 @@
 url: https://api.core.testing.travelonux.com/status
-status: up
-code: 200
-responseTime: 216
-lastUpdated: 2023-05-23T04:10:48.931Z
+status: down
+code: 502
+responseTime: 327
+lastUpdated: 2023-05-23T05:05:26.750Z
 startTime: Wed Oct 26 2022 21:54:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
