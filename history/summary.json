@@ -393,9 +393,9 @@
     "slug": "me-vuelo-core-api-production",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 504,
     "timeDay": 520,
@@ -403,7 +403,6 @@
     "timeMonth": 499,
     "timeYear": 504,
     "dailyMinutesDown": {
-      "2023-07-23": 8,
       "2023-07-11": 16,
       "2023-02-28": 30
     }
@@ -844,7 +843,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.packages.production.travelonux.com.ico",
     "slug": "me-vuelo-packages-availability-asu-mobile",
     "status": "up",
-    "uptime": "98.82%",
+    "uptime": "98.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
