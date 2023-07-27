@@ -56,12 +56,16 @@ sites:
 
   - name: MeVuelo Core API (production)
     url: https://api.core.production.travelonux.com/status
+  - name: MeVuelo Internal Core API (production)
+    url: https://api.internal-core.production.travelonux.com/status
   - name: MeVuelo Flights API (production)
     url: https://api.flights.production.travelonux.com/status
   - name: MeVuelo Internal Flights API (production)
     url: https://api.internal-flights.production.travelonux.com/status    
   - name: MeVuelo Hotels API (production)
     url: https://api.hotels.production.travelonux.com/status
+  - name: MeVuelo Internal Hotels API (production)
+    url: https://api.internal-hotels.production.travelonux.com/status    
   - name: MeVuelo Hotels Proxy API (production)
     url: https://api.hotels-proxy.production.travelonux.com/status    
   - name: MeVuelo Packages API (production)
@@ -73,12 +77,16 @@ sites:
     
   - name: MeVuelo Core API (testing)
     url: https://api.core.testing.travelonux.com/status
+  - name: MeVuelo Internal Core API (testing)
+    url: https://api.internal-core.testing.travelonux.com/status
   - name: MeVuelo Flights API (testing)
     url: https://api.flights.testing.travelonux.com/status
   - name: MeVuelo Internal Flights API (testing)
     url: https://api.internal-flights.testing.travelonux.com/status        
   - name: MeVuelo Hotels API (testing)
     url: https://api.hotels.testing.travelonux.com/status
+  - name: MeVuelo Internal Hotels API (testing)
+    url: https://api.internal-hotels.testing.travelonux.com/status
   - name: MeVuelo Hotels Proxy API (testing)
     url: https://api.hotels-proxy.testing.travelonux.com/status    
   - name: MeVuelo Packages API (testing)
