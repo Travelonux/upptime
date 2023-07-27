@@ -1,7 +1,7 @@
 url: https://api.internal-flights.testing.travelonux.com/status
-status: down
-code: 404
-responseTime: 88
-lastUpdated: 2023-07-27T20:48:54.670Z
+status: up
+code: 200
+responseTime: 571
+lastUpdated: 2023-07-27T21:16:00.511Z
 startTime: Tue Feb 07 2023 04:08:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
