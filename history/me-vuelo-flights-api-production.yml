@@ -1,7 +1,7 @@
 url: https://api.flights.production.travelonux.com/status
 status: up
 code: 200
-responseTime: 575
-lastUpdated: 2023-08-05T23:03:43.688Z
+responseTime: 431
+lastUpdated: 2023-08-06T23:03:39.990Z
 startTime: Fri Jan 20 2023 03:59:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
