@@ -1,7 +1,7 @@
 url: https://api.internal-flights.testing.travelonux.com/status
 status: up
 code: 200
-responseTime: 75
-lastUpdated: 2023-08-07T23:03:31.731Z
+responseTime: 125
+lastUpdated: 2023-08-08T23:03:39.971Z
 startTime: Tue Feb 07 2023 04:08:01 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
