@@ -1,7 +1,7 @@
 url: https://api.hotels-proxy.testing.travelonux.com/status
 status: up
 code: 200
-responseTime: 237
-lastUpdated: 2023-08-18T23:04:01.761Z
-startTime: Fri Jan 20 2023 03:59:27 GMT+0000 (Coordinated Universal Time)
+responseTime: 318
+lastUpdated: 2023-08-19T23:03:49.360Z
+startTime: 2023-01-20T03:59:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
