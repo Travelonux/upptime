@@ -1,7 +1,7 @@
 url: https://api.core.production.travelonux.com/status
-status: down
-code: 502
-responseTime: 418
-lastUpdated: 2023-08-22T17:43:09.650Z
+status: up
+code: 200
+responseTime: 440
+lastUpdated: 2023-08-22T17:51:12.122Z
 startTime: 2023-01-20T03:59:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
