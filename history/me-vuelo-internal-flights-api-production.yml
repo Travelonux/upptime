@@ -1,7 +1,7 @@
 url: https://api.internal-flights.production.travelonux.com/status
-status: up
-code: 200
-responseTime: 413
-lastUpdated: 2023-08-30T23:03:39.225Z
+status: down
+code: 502
+responseTime: 16536
+lastUpdated: 2023-08-31T16:40:05.866Z
 startTime: 2023-02-07T04:07:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>
