@@ -1,7 +1,7 @@
 url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=MVD&api_key=60f8b35a-2e1e-48d3-939f-41dece9aa5d4&resolution=1
-status: up
-code: 200
-responseTime: 603
-lastUpdated: 2023-09-29T23:04:03.939Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-09-30T01:15:34.387Z
 startTime: 2022-03-16T20:54:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
