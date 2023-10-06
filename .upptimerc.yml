@@ -98,8 +98,16 @@ sites:
     
   - name: MeVuelo Packages Availability (MVD - Mobile)
     url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=MVD&api_key=60f8b35a-2e1e-48d3-939f-41dece9aa5d4&resolution=1
+  - name: MeVuelo Packages Availability (TODOS - Mobile)
+    url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=TODOS&api_key=60f8b35a-2e1e-48d3-939f-41dece9aa5d4&resolution=1
   - name: MeVuelo Packages Availability (ASU - Mobile)
     url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=ASU&api_key=ebfc5bcd-c798-4a53-a45a-5118f8a1e377&resolution=1
+  - name: MeVuelo Packages Availability (TODOS - Mobile)
+    url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=TODOS&api_key=ebfc5bcd-c798-4a53-a45a-5118f8a1e377&resolution=1
+  - name: MeVuelo Packages Availability Tienda Naranja (ASU - Mobile)
+    url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=ASU&api_key=6ff34ba1-d58b-4dfe-af2e-cc234c832ad0&resolution=1
+  - name: MeVuelo Packages Availability Tienda Naranja (TODOS - Mobile)
+    url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=TODOS&api_key=6ff34ba1-d58b-4dfe-af2e-cc234c832ad0&resolution=1
 
 assignees:
   - Cinolkis
