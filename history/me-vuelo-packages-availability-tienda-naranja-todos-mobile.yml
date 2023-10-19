@@ -1,7 +1,7 @@
 url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=TODOS&api_key=6ff34ba1-d58b-4dfe-af2e-cc234c832ad0&resolution=1
-status: down
-code: 404
-responseTime: 118
-lastUpdated: 2023-10-19T12:57:24.755Z
+status: up
+code: 200
+responseTime: 176
+lastUpdated: 2023-10-19T13:08:32.006Z
 startTime: 2023-10-06T21:33:52.001Z
 generator: Upptime <https://github.com/upptime/upptime>
