@@ -1,7 +1,7 @@
 url: https://api.crm.production.travelonux.com/healthcheck
 status: up
 code: 200
-responseTime: 826
-lastUpdated: 2023-10-29T23:03:33.679Z
+responseTime: 810
+lastUpdated: 2023-10-30T23:03:41.995Z
 startTime: 2023-01-20T03:59:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
