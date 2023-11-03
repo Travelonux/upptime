@@ -1,7 +1,7 @@
 url: https://api.internal-core.testing.travelonux.com/status
-status: down
-code: 404
-responseTime: 255
-lastUpdated: 2023-11-03T21:00:32.457Z
+status: up
+code: 200
+responseTime: 116
+lastUpdated: 2023-11-03T21:10:16.061Z
 startTime: 2023-07-27T22:22:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
