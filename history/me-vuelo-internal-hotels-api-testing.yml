@@ -1,7 +1,7 @@
 url: https://api.internal-hotels.testing.travelonux.com/status
-status: down
-code: 404
-responseTime: 245
-lastUpdated: 2023-11-03T21:00:47.009Z
+status: up
+code: 200
+responseTime: 201
+lastUpdated: 2023-11-03T21:10:27.036Z
 startTime: 2023-07-27T22:22:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
