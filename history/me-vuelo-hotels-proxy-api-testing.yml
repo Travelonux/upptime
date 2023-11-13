@@ -1,7 +1,7 @@
 url: https://api.hotels-proxy.testing.travelonux.com/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-13T20:46:09.065Z
+status: up
+code: 200
+responseTime: 686
+lastUpdated: 2023-11-13T21:09:02.271Z
 startTime: 2023-01-20T03:59:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
