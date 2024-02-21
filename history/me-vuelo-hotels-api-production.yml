@@ -1,7 +1,7 @@
 url: https://api.hotels.production.travelonux.com/status
 status: up
 code: 200
-responseTime: 596
-lastUpdated: 2024-02-20T23:03:29.627Z
+responseTime: 405
+lastUpdated: 2024-02-21T23:03:37.178Z
 startTime: 2023-01-20T03:59:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
