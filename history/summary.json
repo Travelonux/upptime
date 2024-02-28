@@ -10,14 +10,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 380,
-    "timeDay": 1409,
+    "time": 377,
+    "timeDay": 69,
     "timeWeek": 308,
-    "timeMonth": 171,
+    "timeMonth": 169,
     "timeYear": 140,
-    "dailyMinutesDown": {
-      "2023-02-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MeVuelo",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 96,
+    "timeDay": 74,
     "timeWeek": 180,
-    "timeMonth": 120,
-    "timeYear": 103,
+    "timeMonth": 119,
+    "timeYear": 102,
     "dailyMinutesDown": {
       "2023-06-21": 44
     }
@@ -51,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 426,
-    "timeDay": 259,
-    "timeWeek": 251,
-    "timeMonth": 291,
-    "timeYear": 406,
+    "timeDay": 202,
+    "timeWeek": 245,
+    "timeMonth": 265,
+    "timeYear": 404,
     "dailyMinutesDown": {}
   },
   {
@@ -69,10 +67,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 416,
-    "timeDay": 265,
-    "timeWeek": 231,
-    "timeMonth": 318,
-    "timeYear": 391,
+    "timeDay": 305,
+    "timeWeek": 237,
+    "timeMonth": 320,
+    "timeYear": 390,
     "dailyMinutesDown": {}
   },
   {
@@ -86,14 +84,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 148,
-    "timeDay": 129,
-    "timeWeek": 211,
-    "timeMonth": 134,
+    "time": 147,
+    "timeDay": 69,
+    "timeWeek": 200,
+    "timeMonth": 132,
     "timeYear": 142,
-    "dailyMinutesDown": {
-      "2023-02-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin MeVuelo UY (testing)",
@@ -106,14 +102,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 165,
-    "timeDay": 65,
-    "timeWeek": 113,
-    "timeMonth": 122,
+    "time": 164,
+    "timeDay": 75,
+    "timeWeek": 108,
+    "timeMonth": 121,
     "timeYear": 139,
-    "dailyMinutesDown": {
-      "2023-02-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MeVuelo PY",
@@ -127,10 +121,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 105,
-    "timeWeek": 125,
-    "timeMonth": 176,
-    "timeYear": 221,
+    "timeDay": 66,
+    "timeWeek": 116,
+    "timeMonth": 174,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -144,10 +138,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 218,
-    "timeDay": 170,
-    "timeWeek": 121,
-    "timeMonth": 166,
+    "time": 217,
+    "timeDay": 136,
+    "timeWeek": 128,
+    "timeMonth": 165,
     "timeYear": 211,
     "dailyMinutesDown": {}
   },
@@ -163,13 +157,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 152,
-    "timeDay": 65,
+    "timeDay": 86,
     "timeWeek": 193,
     "timeMonth": 130,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2023-02-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin MeVuelo PY(testing)",
@@ -182,14 +174,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 153,
-    "timeDay": 89,
-    "timeWeek": 225,
+    "time": 152,
+    "timeDay": 97,
+    "timeWeek": 105,
     "timeMonth": 138,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2023-02-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MeVuelo BO",
@@ -203,8 +193,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 353,
-    "timeDay": 384,
-    "timeWeek": 290,
+    "timeDay": 258,
+    "timeWeek": 271,
     "timeMonth": 331,
     "timeYear": 350,
     "dailyMinutesDown": {}
@@ -221,8 +211,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 254,
-    "timeDay": 280,
-    "timeWeek": 168,
+    "timeDay": 170,
+    "timeWeek": 182,
     "timeMonth": 489,
     "timeYear": 258,
     "dailyMinutesDown": {}
@@ -238,14 +228,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 142,
-    "timeDay": 96,
-    "timeWeek": 90,
-    "timeMonth": 132,
+    "time": 141,
+    "timeDay": 90,
+    "timeWeek": 88,
+    "timeMonth": 131,
     "timeYear": 131,
-    "dailyMinutesDown": {
-      "2023-02-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin MeVuelo BO(testing)",
@@ -259,13 +247,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 153,
-    "timeDay": 67,
-    "timeWeek": 95,
-    "timeMonth": 136,
+    "timeDay": 66,
+    "timeWeek": 87,
+    "timeMonth": 135,
     "timeYear": 152,
-    "dailyMinutesDown": {
-      "2023-02-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "MeVuelo CO",
@@ -279,9 +265,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 137,
-    "timeDay": 56,
-    "timeWeek": 82,
-    "timeMonth": 104,
+    "timeDay": 113,
+    "timeWeek": 90,
+    "timeMonth": 105,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2023-07-26": 16
@@ -299,10 +285,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 48,
-    "timeWeek": 50,
-    "timeMonth": 60,
-    "timeYear": 80,
+    "timeDay": 78,
+    "timeWeek": 57,
+    "timeMonth": 61,
+    "timeYear": 81,
     "dailyMinutesDown": {}
   },
   {
@@ -316,14 +302,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 136,
-    "timeDay": 66,
-    "timeWeek": 106,
+    "time": 135,
+    "timeDay": 81,
+    "timeWeek": 95,
     "timeMonth": 101,
     "timeYear": 121,
-    "dailyMinutesDown": {
-      "2023-02-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Admin MeVuelo CO (testing)",
@@ -337,13 +321,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 146,
-    "timeDay": 116,
-    "timeWeek": 256,
-    "timeMonth": 131,
+    "timeDay": 76,
+    "timeWeek": 255,
+    "timeMonth": 130,
     "timeYear": 141,
-    "dailyMinutesDown": {
-      "2023-02-28": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Power (production)",
@@ -357,9 +339,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 723,
-    "timeDay": 906,
-    "timeWeek": 670,
-    "timeMonth": 714,
+    "timeDay": 655,
+    "timeWeek": 641,
+    "timeMonth": 715,
     "timeYear": 723,
     "dailyMinutesDown": {
       "2023-06-21": 44
@@ -377,9 +359,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 55,
-    "timeWeek": 70,
-    "timeMonth": 77,
+    "timeDay": 57,
+    "timeWeek": 72,
+    "timeMonth": 76,
     "timeYear": 99,
     "dailyMinutesDown": {}
   },
@@ -394,10 +376,10 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "97.52%",
     "uptimeYear": "99.55%",
-    "time": 522,
-    "timeDay": 666,
-    "timeWeek": 521,
-    "timeMonth": 489,
+    "time": 521,
+    "timeDay": 411,
+    "timeWeek": 494,
+    "timeMonth": 488,
     "timeYear": 523,
     "dailyMinutesDown": {
       "2024-02-25": 18,
@@ -415,8 +397,7 @@
       "2023-08-04": 19,
       "2023-07-31": 476,
       "2023-07-26": 16,
-      "2023-07-11": 16,
-      "2023-02-28": 30
+      "2023-07-11": 16
     }
   },
   {
@@ -430,11 +411,11 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "97.54%",
     "uptimeYear": "99.22%",
-    "time": 571,
-    "timeDay": 572,
-    "timeWeek": 501,
+    "time": 570,
+    "timeDay": 419,
+    "timeWeek": 474,
     "timeMonth": 864,
-    "timeYear": 571,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2024-02-25": 18,
       "2024-02-19": 17,
@@ -461,9 +442,9 @@
     "uptimeMonth": "97.52%",
     "uptimeYear": "99.57%",
     "time": 504,
-    "timeDay": 660,
-    "timeWeek": 502,
-    "timeMonth": 498,
+    "timeDay": 480,
+    "timeWeek": 488,
+    "timeMonth": 499,
     "timeYear": 502,
     "dailyMinutesDown": {
       "2024-02-25": 18,
@@ -475,8 +456,7 @@
       "2023-08-29": 251,
       "2023-08-28": 370,
       "2023-07-31": 450,
-      "2023-07-26": 16,
-      "2023-02-28": 30
+      "2023-07-26": 16
     }
   },
   {
@@ -491,9 +471,9 @@
     "uptimeMonth": "97.59%",
     "uptimeYear": "99.55%",
     "time": 558,
-    "timeDay": 593,
-    "timeWeek": 521,
-    "timeMonth": 648,
+    "timeDay": 415,
+    "timeWeek": 487,
+    "timeMonth": 647,
     "timeYear": 558,
     "dailyMinutesDown": {
       "2024-02-25": 18,
@@ -507,8 +487,7 @@
       "2023-08-28": 370,
       "2023-08-24": 61,
       "2023-07-31": 449,
-      "2023-07-26": 16,
-      "2023-02-28": 30
+      "2023-07-26": 16
     }
   },
   {
@@ -522,9 +501,9 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "97.59%",
     "uptimeYear": "99.58%",
-    "time": 509,
-    "timeDay": 627,
-    "timeWeek": 522,
+    "time": 508,
+    "timeDay": 429,
+    "timeWeek": 498,
     "timeMonth": 514,
     "timeYear": 508,
     "dailyMinutesDown": {
@@ -537,8 +516,7 @@
       "2023-08-29": 234,
       "2023-08-28": 369,
       "2023-07-31": 449,
-      "2023-07-26": 16,
-      "2023-02-28": 30
+      "2023-07-26": 16
     }
   },
   {
@@ -553,9 +531,9 @@
     "uptimeMonth": "97.53%",
     "uptimeYear": "99.20%",
     "time": 519,
-    "timeDay": 664,
-    "timeWeek": 582,
-    "timeMonth": 539,
+    "timeDay": 437,
+    "timeWeek": 559,
+    "timeMonth": 538,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2024-02-25": 18,
@@ -585,8 +563,8 @@
     "uptimeMonth": "97.53%",
     "uptimeYear": "99.57%",
     "time": 500,
-    "timeDay": 644,
-    "timeWeek": 496,
+    "timeDay": 428,
+    "timeWeek": 472,
     "timeMonth": 483,
     "timeYear": 500,
     "dailyMinutesDown": {
@@ -601,8 +579,7 @@
       "2023-08-29": 233,
       "2023-08-28": 369,
       "2023-07-31": 465,
-      "2023-07-26": 16,
-      "2023-02-28": 30
+      "2023-07-26": 16
     }
   },
   {
@@ -617,8 +594,8 @@
     "uptimeMonth": "97.51%",
     "uptimeYear": "99.55%",
     "time": 497,
-    "timeDay": 572,
-    "timeWeek": 491,
+    "timeDay": 425,
+    "timeWeek": 462,
     "timeMonth": 477,
     "timeYear": 498,
     "dailyMinutesDown": {
@@ -635,8 +612,7 @@
       "2023-08-28": 368,
       "2023-08-11": 28,
       "2023-07-31": 496,
-      "2023-07-26": 16,
-      "2023-02-28": 30
+      "2023-07-26": 16
     }
   },
   {
@@ -651,8 +627,8 @@
     "uptimeMonth": "97.54%",
     "uptimeYear": "99.56%",
     "time": 858,
-    "timeDay": 913,
-    "timeWeek": 873,
+    "timeDay": 763,
+    "timeWeek": 850,
     "timeMonth": 888,
     "timeYear": 857,
     "dailyMinutesDown": {
@@ -667,8 +643,7 @@
       "2023-08-28": 368,
       "2023-08-24": 61,
       "2023-07-31": 464,
-      "2023-07-26": 16,
-      "2023-02-28": 30
+      "2023-07-26": 16
     }
   },
   {
@@ -683,9 +658,9 @@
     "uptimeMonth": "97.58%",
     "uptimeYear": "99.59%",
     "time": 495,
-    "timeDay": 601,
-    "timeWeek": 477,
-    "timeMonth": 487,
+    "timeDay": 410,
+    "timeWeek": 451,
+    "timeMonth": 486,
     "timeYear": 496,
     "dailyMinutesDown": {
       "2024-02-19": 23,
@@ -693,8 +668,7 @@
       "2024-01-28": 235,
       "2023-08-29": 223,
       "2023-08-28": 367,
-      "2023-07-31": 464,
-      "2023-02-28": 30
+      "2023-07-31": 464
     }
   },
   {
@@ -709,9 +683,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 247,
-    "timeDay": 271,
-    "timeWeek": 152,
-    "timeMonth": 164,
+    "timeDay": 101,
+    "timeWeek": 127,
+    "timeMonth": 162,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2023-11-28": 79,
@@ -732,8 +706,7 @@
       "2023-05-29": 249,
       "2023-05-25": 45,
       "2023-05-17": 16,
-      "2023-04-21": 46,
-      "2023-02-28": 30
+      "2023-04-21": 46
     }
   },
   {
@@ -742,18 +715,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.internal-core.testing.travelonux.com.ico",
     "slug": "me-vuelo-internal-core-api-testing",
     "status": "down",
-    "uptime": "94.12%",
+    "uptime": "93.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "59.98%",
-    "uptimeYear": "94.12%",
-    "time": 218,
-    "timeDay": 272,
-    "timeWeek": 147,
+    "uptimeMonth": "56.69%",
+    "uptimeYear": "93.68%",
+    "time": 217,
+    "timeDay": 97,
+    "timeWeek": 118,
     "timeMonth": 185,
-    "timeYear": 218,
+    "timeYear": 217,
     "dailyMinutesDown": {
-      "2024-02-27": 9,
+      "2024-02-28": 9,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -795,10 +769,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.70%",
     "uptimeYear": "99.59%",
-    "time": 229,
-    "timeDay": 259,
-    "timeWeek": 154,
-    "timeMonth": 185,
+    "time": 228,
+    "timeDay": 96,
+    "timeWeek": 126,
+    "timeMonth": 184,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2024-01-31": 859,
@@ -817,8 +791,7 @@
       "2023-08-29": 74,
       "2023-08-23": 18,
       "2023-07-27": 44,
-      "2023-05-25": 45,
-      "2023-02-28": 30
+      "2023-05-25": 45
     }
   },
   {
@@ -833,10 +806,10 @@
     "uptimeMonth": "96.70%",
     "uptimeYear": "99.58%",
     "time": 213,
-    "timeDay": 253,
-    "timeWeek": 153,
-    "timeMonth": 345,
-    "timeYear": 214,
+    "timeDay": 98,
+    "timeWeek": 128,
+    "timeMonth": 342,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2024-01-31": 859,
       "2024-01-30": 588,
@@ -854,8 +827,7 @@
       "2023-08-25": 89,
       "2023-08-24": 48,
       "2023-07-27": 27,
-      "2023-05-25": 45,
-      "2023-02-28": 30
+      "2023-05-25": 45
     }
   },
   {
@@ -870,8 +842,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 247,
-    "timeDay": 251,
-    "timeWeek": 159,
+    "timeDay": 106,
+    "timeWeek": 133,
     "timeMonth": 160,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -888,8 +860,7 @@
       "2023-08-29": 73,
       "2023-08-23": 28,
       "2023-07-27": 64,
-      "2023-05-25": 45,
-      "2023-02-28": 30
+      "2023-05-25": 45
     }
   },
   {
@@ -898,16 +869,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.internal-hotels.testing.travelonux.com.ico",
     "slug": "me-vuelo-internal-hotels-api-testing",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.06%",
-    "time": 241,
-    "timeDay": 267,
-    "timeWeek": 171,
-    "timeMonth": 162,
-    "timeYear": 241,
+    "uptimeYear": "98.07%",
+    "time": 240,
+    "timeDay": 91,
+    "timeWeek": 132,
+    "timeMonth": 160,
+    "timeYear": 240,
     "dailyMinutesDown": {
       "2023-11-28": 51,
       "2023-11-23": 127,
@@ -940,9 +911,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 203,
-    "timeDay": 267,
-    "timeWeek": 159,
-    "timeMonth": 163,
+    "timeDay": 129,
+    "timeWeek": 136,
+    "timeMonth": 164,
     "timeYear": 198,
     "dailyMinutesDown": {
       "2023-11-28": 50,
@@ -958,8 +929,7 @@
       "2023-08-29": 48,
       "2023-08-23": 18,
       "2023-07-27": 71,
-      "2023-05-25": 45,
-      "2023-02-28": 30
+      "2023-05-25": 45
     }
   },
   {
@@ -974,9 +944,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 217,
-    "timeDay": 255,
-    "timeWeek": 152,
-    "timeMonth": 163,
+    "timeDay": 171,
+    "timeWeek": 137,
+    "timeMonth": 165,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2023-11-28": 49,
@@ -992,8 +962,7 @@
       "2023-08-23": 28,
       "2023-07-31": 30,
       "2023-07-27": 78,
-      "2023-05-25": 45,
-      "2023-02-28": 30
+      "2023-05-25": 45
     }
   },
   {
@@ -1002,16 +971,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.crm.testing.travelonux.com.ico",
     "slug": "me-vuelo-crm-api-testing",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 1086,
-    "timeDay": 803,
-    "timeWeek": 944,
-    "timeMonth": 985,
-    "timeYear": 1047,
+    "timeDay": 1063,
+    "timeWeek": 946,
+    "timeMonth": 986,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2023-12-19": 16,
       "2023-11-28": 49,
@@ -1027,8 +996,7 @@
       "2023-08-23": 18,
       "2023-07-27": 106,
       "2023-05-25": 45,
-      "2023-03-28": 78,
-      "2023-02-28": 30
+      "2023-03-28": 78
     }
   },
   {
@@ -1043,9 +1011,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 170,
-    "timeDay": 250,
-    "timeWeek": 159,
-    "timeMonth": 156,
+    "timeDay": 103,
+    "timeWeek": 133,
+    "timeMonth": 157,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2023-11-28": 47,
@@ -1056,8 +1024,7 @@
       "2023-10-14": 15,
       "2023-10-13": 33,
       "2023-08-29": 47,
-      "2023-05-25": 45,
-      "2023-02-28": 30
+      "2023-05-25": 45
     }
   },
   {
@@ -1072,8 +1039,8 @@
     "uptimeMonth": "97.54%",
     "uptimeYear": "99.21%",
     "time": 692,
-    "timeDay": 594,
-    "timeWeek": 806,
+    "timeDay": 425,
+    "timeWeek": 779,
     "timeMonth": 755,
     "timeYear": 677,
     "dailyMinutesDown": {
@@ -1099,8 +1066,7 @@
       "2023-07-27": 28,
       "2023-07-26": 16,
       "2023-07-20": 15,
-      "2023-06-21": 26,
-      "2023-02-28": 30
+      "2023-06-21": 26
     }
   },
   {
@@ -1109,16 +1075,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.packages.production.travelonux.com.ico",
     "slug": "me-vuelo-packages-availability-todos-mobile",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "99.47%",
-    "time": 400,
-    "timeDay": 205,
-    "timeWeek": 352,
-    "timeMonth": 370,
-    "timeYear": 400,
+    "uptimeYear": "99.48%",
+    "time": 399,
+    "timeDay": 147,
+    "timeWeek": 342,
+    "timeMonth": 369,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2024-02-25": 18,
       "2024-01-29": 802,
@@ -1139,8 +1105,8 @@
     "uptimeMonth": "97.59%",
     "uptimeYear": "99.14%",
     "time": 678,
-    "timeDay": 204,
-    "timeWeek": 819,
+    "timeDay": 168,
+    "timeWeek": 815,
     "timeMonth": 688,
     "timeYear": 772,
     "dailyMinutesDown": {
@@ -1164,8 +1130,7 @@
       "2023-07-30": 757,
       "2023-07-27": 26,
       "2023-07-26": 16,
-      "2023-06-21": 18,
-      "2023-02-28": 30
+      "2023-06-21": 18
     }
   },
   {
@@ -1174,16 +1139,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.packages.production.travelonux.com.ico",
     "slug": "me-vuelo-packages-availability-todos-mobile",
     "status": "up",
-    "uptime": "99.47%",
+    "uptime": "99.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "99.47%",
-    "time": 400,
-    "timeDay": 205,
-    "timeWeek": 352,
-    "timeMonth": 370,
-    "timeYear": 400,
+    "uptimeYear": "99.48%",
+    "time": 399,
+    "timeDay": 147,
+    "timeWeek": 342,
+    "timeMonth": 369,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2024-02-25": 18,
       "2024-01-29": 802,
@@ -1204,9 +1169,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 203,
-    "timeWeek": 165,
-    "timeMonth": 220,
+    "timeDay": 134,
+    "timeWeek": 156,
+    "timeMonth": 219,
     "timeYear": 179,
     "dailyMinutesDown": {}
   },
@@ -1222,9 +1187,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 180,
-    "timeDay": 204,
-    "timeWeek": 170,
-    "timeMonth": 219,
+    "timeDay": 136,
+    "timeWeek": 160,
+    "timeMonth": 218,
     "timeYear": 180,
     "dailyMinutesDown": {}
   }
