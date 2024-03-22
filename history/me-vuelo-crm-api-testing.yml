@@ -1,7 +1,7 @@
 url: https://api.crm.testing.travelonux.com/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-03-22T23:08:53.041Z
+status: up
+code: 200
+responseTime: 1945
+lastUpdated: 2024-03-22T23:58:18.014Z
 startTime: 2022-10-26T21:54:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
