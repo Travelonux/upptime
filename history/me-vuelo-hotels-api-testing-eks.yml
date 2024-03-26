@@ -1,7 +1,7 @@
 url: https://api.hotels.eks.testing.travelonux.com/status
-status: down
-code: 502
-responseTime: 233
-lastUpdated: 2024-03-25T23:03:57.319Z
+status: up
+code: 200
+responseTime: 912
+lastUpdated: 2024-03-26T13:09:08.944Z
 startTime: 2024-03-11T20:44:48.931Z
 generator: Upptime <https://github.com/upptime/upptime>
