@@ -1,7 +1,7 @@
 url: https://destinations-cms.eks.testing.travelonux.com
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-04-01T04:19:50.481Z
+status: up
+code: 200
+responseTime: 184
+lastUpdated: 2024-04-01T09:02:50.047Z
 startTime: 2024-03-11T20:44:55.151Z
 generator: Upptime <https://github.com/upptime/upptime>
