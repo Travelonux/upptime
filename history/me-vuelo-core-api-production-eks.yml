@@ -1,7 +1,7 @@
 url: https://api.core.mevuelo.com/status
-status: down
-code: 502
-responseTime: 562
-lastUpdated: 2024-04-15T13:55:14.700Z
+status: up
+code: 200
+responseTime: 501
+lastUpdated: 2024-04-15T14:04:36.750Z
 startTime: 2024-03-11T20:44:32.556Z
 generator: Upptime <https://github.com/upptime/upptime>
