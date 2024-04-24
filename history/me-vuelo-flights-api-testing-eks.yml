@@ -1,7 +1,7 @@
 url: https://api.flights.eks.testing.travelonux.com/status
-status: down
-code: 502
-responseTime: 137
-lastUpdated: 2024-04-24T14:53:39.596Z
+status: up
+code: 200
+responseTime: 175
+lastUpdated: 2024-04-24T15:11:30.576Z
 startTime: 2024-03-11T20:44:47.267Z
 generator: Upptime <https://github.com/upptime/upptime>
