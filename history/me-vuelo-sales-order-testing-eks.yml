@@ -1,7 +1,7 @@
 url: https://api.sales-order.eks.testing.travelonux.com/healthcheck
 status: up
 code: 200
-responseTime: 273
-lastUpdated: 2024-05-29T23:23:10.452Z
+responseTime: 264
+lastUpdated: 2024-05-31T23:23:01.212Z
 startTime: 2024-03-11T20:44:55.900Z
 generator: Upptime <https://github.com/upptime/upptime>
