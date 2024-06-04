@@ -118,9 +118,9 @@ sites:
   - name: MeVuelo Packages Availability (TODOS - Mobile)
     url: https://api.packages.mevuelo.com/v1/mevuelo/frontend/packages/healthcheck?departure=TODOS&api_key=8f41e23a-b78f-4222-83f6-803eb132ad33&resolution=1
   - name: MeVuelo Packages Availability Tienda Naranja (ASU - Mobile)
-    url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=ASU&api_key=6ff34ba1-d58b-4dfe-af2e-cc234c832ad0&resolution=1
+    url: https://api.packages.mevuelo.com/v1/mevuelo/frontend/packages/healthcheck?departure=ASU&api_key=6ff34ba1-d58b-4dfe-af2e-cc234c832ad0&resolution=1
   - name: MeVuelo Packages Availability Tienda Naranja (TODOS - Mobile)
-    url: https://api.packages.production.travelonux.com/v1/mevuelo/frontend/packages/healthcheck?departure=TODOS&api_key=6ff34ba1-d58b-4dfe-af2e-cc234c832ad0&resolution=1
+    url: https://api.packages.mevuelo.com/v1/mevuelo/frontend/packages/healthcheck?departure=TODOS&api_key=6ff34ba1-d58b-4dfe-af2e-cc234c832ad0&resolution=1
 
 assignees:
   - Cinolkis
