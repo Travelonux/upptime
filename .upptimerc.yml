@@ -77,11 +77,11 @@ sites:
 
   - name: MeVuelo Core API (testing) EKS
     url: https://api.core.eks.testing.travelonux.com/status
-  - name: MeVuelo Core API (testing)
+
 
   - name: MeVuelo Flights API (testing) EKS
     url: https://api.flights.eks.testing.travelonux.com/status
-  - name: MeVuelo Flights API (testing)
+
 
   - name: MeVuelo Hotels API (testing) EKS
     url: https://api.hotels.eks.testing.travelonux.com/status
