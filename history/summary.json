@@ -397,9 +397,9 @@
     "slug": "me-vuelo-flights-api-production-eks",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "59.40%",
-    "uptimeWeek": "92.77%",
-    "uptimeMonth": "97.80%",
+    "uptimeDay": "59.31%",
+    "uptimeWeek": "92.75%",
+    "uptimeMonth": "97.79%",
     "uptimeYear": "99.21%",
     "time": 515,
     "timeDay": 577,
@@ -407,7 +407,7 @@
     "timeMonth": 540,
     "timeYear": 515,
     "dailyMinutesDown": {
-      "2024-06-04": 585,
+      "2024-06-04": 586,
       "2024-05-31": 93,
       "2024-05-30": 51,
       "2024-05-22": 236
