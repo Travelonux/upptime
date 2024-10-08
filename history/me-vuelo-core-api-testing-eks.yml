@@ -1,7 +1,7 @@
 url: https://api.core.eks.testing.travelonux.com/status
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-08T20:21:32.379Z
+status: up
+code: 200
+responseTime: 106
+lastUpdated: 2024-10-08T20:29:09.557Z
 startTime: 2024-03-11T20:44:46.049Z
 generator: Upptime <https://github.com/upptime/upptime>
