@@ -1,7 +1,7 @@
 url: https://api.packages.mevuelo.com/v1/mevuelo/frontend/packages/healthcheck?departure=ASU&api_key=6ff34ba1-d58b-4dfe-af2e-cc234c832ad0&resolution=1
 status: up
 code: 200
-responseTime: 1210
-lastUpdated: 2024-10-31T23:08:39.182Z
+responseTime: 26
+lastUpdated: 2024-11-01T23:06:47.709Z
 startTime: 2023-10-06T21:33:51.477Z
 generator: Upptime <https://github.com/upptime/upptime>
