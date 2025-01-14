@@ -4,19 +4,19 @@
     "url": "https://travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/travelonux.com.ico",
     "slug": "landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 92,
-    "timeWeek": 115,
-    "timeMonth": 117,
+    "timeDay": 85,
+    "timeWeek": 110,
+    "timeMonth": 116,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2025-01-14": 0
+      "2025-01-14": 13
     }
   },
   {
@@ -576,7 +576,7 @@
     "timeMonth": 0,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-01-14": 1088,
+      "2025-01-14": 1102,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -704,7 +704,7 @@
     "timeMonth": 0,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-01-14": 1088,
+      "2025-01-14": 1102,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -818,18 +818,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.hotels.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-hotels-api-testing-eks",
     "status": "down",
-    "uptime": "60.64%",
+    "uptime": "60.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "60.64%",
+    "uptimeYear": "60.63%",
     "time": 183,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-01-14": 1088,
+      "2025-01-14": 1102,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -976,7 +976,7 @@
     "timeMonth": 0,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-01-14": 1088,
+      "2025-01-14": 1102,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1100,7 +1100,7 @@
     "timeMonth": 0,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-01-14": 1088,
+      "2025-01-14": 1102,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1225,7 +1225,7 @@
     "timeMonth": 0,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2025-01-14": 1088,
+      "2025-01-14": 1102,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1348,7 +1348,7 @@
     "timeMonth": 0,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-01-14": 1088,
+      "2025-01-14": 1102,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -1470,7 +1470,7 @@
     "timeMonth": 0,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-01-14": 1088,
+      "2025-01-14": 1102,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
