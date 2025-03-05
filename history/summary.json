@@ -4,19 +4,19 @@
     "url": "https://travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/travelonux.com.ico",
     "slug": "landing",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 154,
-    "timeDay": 106,
-    "timeWeek": 133,
+    "timeDay": 100,
+    "timeWeek": 132,
     "timeMonth": 136,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2025-03-05": 0,
+      "2025-03-05": 12,
       "2025-02-21": 29
     }
   },
@@ -125,7 +125,7 @@
     "timeDay": 343,
     "timeWeek": 485,
     "timeMonth": 246,
-    "timeYear": 219,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -251,7 +251,7 @@
     "timeDay": 104,
     "timeWeek": 119,
     "timeMonth": 124,
-    "timeYear": 138,
+    "timeYear": 139,
     "dailyMinutesDown": {}
   },
   {
@@ -287,7 +287,7 @@
     "timeDay": 64,
     "timeWeek": 182,
     "timeMonth": 112,
-    "timeYear": 114,
+    "timeYear": 115,
     "dailyMinutesDown": {}
   },
   {
@@ -577,7 +577,7 @@
     "timeMonth": 0,
     "timeYear": 187,
     "dailyMinutesDown": {
-      "2025-03-05": 1385,
+      "2025-03-05": 1397,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -755,7 +755,7 @@
     "timeMonth": 0,
     "timeYear": 200,
     "dailyMinutesDown": {
-      "2025-03-05": 1385,
+      "2025-03-05": 1397,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -930,7 +930,7 @@
     "timeMonth": 0,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2025-03-05": 1385,
+      "2025-03-05": 1397,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1127,7 +1127,7 @@
     "timeMonth": 0,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-03-05": 1385,
+      "2025-03-05": 1397,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1290,18 +1290,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.packages.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-packages-api-testing-eks",
     "status": "down",
-    "uptime": "57.92%",
+    "uptime": "57.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "57.92%",
+    "uptimeYear": "57.91%",
     "time": 172,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-03-05": 1385,
+      "2025-03-05": 1397,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1476,7 +1476,7 @@
     "timeMonth": 0,
     "timeYear": 1330,
     "dailyMinutesDown": {
-      "2025-03-05": 1385,
+      "2025-03-05": 1397,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1649,7 +1649,7 @@
     "timeMonth": 0,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-03-05": 1385,
+      "2025-03-05": 1397,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -1821,7 +1821,7 @@
     "timeMonth": 0,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-03-05": 1385,
+      "2025-03-05": 1397,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
       "2025-03-02": 1440,
@@ -2004,7 +2004,7 @@
     "timeDay": 39,
     "timeWeek": 53,
     "timeMonth": 475,
-    "timeYear": 1940,
+    "timeYear": 1938,
     "dailyMinutesDown": {
       "2024-10-12": 51,
       "2024-10-11": 34,
@@ -2029,7 +2029,7 @@
     "timeDay": 35,
     "timeWeek": 310,
     "timeMonth": 727,
-    "timeYear": 2143,
+    "timeYear": 2140,
     "dailyMinutesDown": {
       "2024-10-12": 51,
       "2024-10-11": 34,
@@ -2079,7 +2079,7 @@
     "timeDay": 35,
     "timeWeek": 310,
     "timeMonth": 727,
-    "timeYear": 2143,
+    "timeYear": 2140,
     "dailyMinutesDown": {
       "2024-10-12": 51,
       "2024-10-11": 34,
@@ -2104,7 +2104,7 @@
     "timeDay": 39,
     "timeWeek": 57,
     "timeMonth": 939,
-    "timeYear": 2714,
+    "timeYear": 2710,
     "dailyMinutesDown": {
       "2024-10-12": 52,
       "2024-10-11": 33,
@@ -2129,7 +2129,7 @@
     "timeDay": 35,
     "timeWeek": 310,
     "timeMonth": 727,
-    "timeYear": 2143,
+    "timeYear": 2140,
     "dailyMinutesDown": {
       "2024-10-12": 51,
       "2024-10-11": 34,
@@ -2179,7 +2179,7 @@
     "timeDay": 35,
     "timeWeek": 310,
     "timeMonth": 727,
-    "timeYear": 2143,
+    "timeYear": 2140,
     "dailyMinutesDown": {
       "2024-10-12": 51,
       "2024-10-11": 34,
@@ -2204,7 +2204,7 @@
     "timeDay": 48,
     "timeWeek": 288,
     "timeMonth": 426,
-    "timeYear": 1416,
+    "timeYear": 1420,
     "dailyMinutesDown": {}
   },
   {
@@ -2222,7 +2222,7 @@
     "timeDay": 40,
     "timeWeek": 254,
     "timeMonth": 414,
-    "timeYear": 1516,
+    "timeYear": 1521,
     "dailyMinutesDown": {}
   }
 ]
