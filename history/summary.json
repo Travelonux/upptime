@@ -4,10 +4,10 @@
     "url": "https://travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/travelonux.com.ico",
     "slug": "landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 161,
@@ -16,6 +16,7 @@
     "timeMonth": 197,
     "timeYear": 161,
     "dailyMinutesDown": {
+      "2026-01-27": 1,
       "2025-05-14": 22,
       "2025-05-13": 19,
       "2025-05-11": 16,
@@ -39,10 +40,10 @@
     "url": "https://www.mevuelo.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.mevuelo.com.ico",
     "slug": "me-vuelo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 139,
@@ -50,53 +51,59 @@
     "timeWeek": 149,
     "timeMonth": 146,
     "timeYear": 147,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "MeVuelo UY",
     "url": "https://www.mevuelo.com.uy",
     "icon": "https://icons.duckduckgo.com/ip3/www.mevuelo.com.uy.ico",
     "slug": "me-vuelo-uy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 457,
+    "time": 458,
     "timeDay": 493,
     "timeWeek": 293,
     "timeMonth": 459,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "Admin MeVuelo UY",
     "url": "https://admin.mevuelo.com.uy",
     "icon": "https://icons.duckduckgo.com/ip3/admin.mevuelo.com.uy.ico",
     "slug": "admin-me-vuelo-uy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 447,
+    "time": 448,
     "timeDay": 1731,
     "timeWeek": 668,
     "timeMonth": 467,
     "timeYear": 484,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "MeVuelo UY (testing)",
     "url": "https://mv-uruguay-testing.travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/mv-uruguay-testing.travelonux.com.ico",
     "slug": "me-vuelo-uy-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
@@ -104,17 +111,19 @@
     "timeWeek": 175,
     "timeMonth": 196,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "Admin MeVuelo UY (testing)",
     "url": "https://admin-mv-uruguay-testing.travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin-mv-uruguay-testing.travelonux.com.ico",
     "slug": "admin-me-vuelo-uy-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
@@ -122,35 +131,39 @@
     "timeWeek": 193,
     "timeMonth": 290,
     "timeYear": 211,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "MeVuelo PY",
     "url": "https://www.mevuelo.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/www.mevuelo.com.py.ico",
     "slug": "me-vuelo-py",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
+    "time": 226,
     "timeDay": 151,
     "timeWeek": 207,
     "timeMonth": 234,
     "timeYear": 236,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "Admin MeVuelo PY",
     "url": "https://admin.mevuelo.com.py",
     "icon": "https://icons.duckduckgo.com/ip3/admin.mevuelo.com.py.ico",
     "slug": "admin-me-vuelo-py",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 277,
@@ -158,17 +171,19 @@
     "timeWeek": 218,
     "timeMonth": 251,
     "timeYear": 288,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "MeVuelo PY (testing)",
     "url": "https://mv-paraguay-testing.travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/mv-paraguay-testing.travelonux.com.ico",
     "slug": "me-vuelo-py-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
@@ -176,17 +191,19 @@
     "timeWeek": 150,
     "timeMonth": 183,
     "timeYear": 202,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "Admin MeVuelo PY(testing)",
     "url": "https://admin-mv-paraguay-testing.travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin-mv-paraguay-testing.travelonux.com.ico",
     "slug": "admin-me-vuelo-py-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
@@ -194,17 +211,19 @@
     "timeWeek": 141,
     "timeMonth": 220,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "MeVuelo BO",
     "url": "https://www.mevuelo.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/www.mevuelo.com.bo.ico",
     "slug": "me-vuelo-bo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
@@ -212,35 +231,39 @@
     "timeWeek": 345,
     "timeMonth": 389,
     "timeYear": 410,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "Admin MeVuelo BO",
     "url": "https://admin.mevuelo.com.bo",
     "icon": "https://icons.duckduckgo.com/ip3/admin.mevuelo.com.bo.ico",
     "slug": "admin-me-vuelo-bo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 284,
+    "time": 275,
     "timeDay": 251,
     "timeWeek": 265,
     "timeMonth": 307,
     "timeYear": 287,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "MeVuelo BO (testing)",
     "url": "https://mv-bolivia-testing.travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/mv-bolivia-testing.travelonux.com.ico",
     "slug": "me-vuelo-bo-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 174,
@@ -248,17 +271,19 @@
     "timeWeek": 158,
     "timeMonth": 174,
     "timeYear": 177,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "Admin MeVuelo BO(testing)",
     "url": "https://admin-mv-bolivia-testing.travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin-mv-bolivia-testing.travelonux.com.ico",
     "slug": "admin-me-vuelo-bo-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
@@ -266,17 +291,19 @@
     "timeWeek": 186,
     "timeMonth": 192,
     "timeYear": 175,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "MeVuelo CO",
     "url": "https://www.mevuelo.com.co",
     "icon": "https://icons.duckduckgo.com/ip3/www.mevuelo.com.co.ico",
     "slug": "me-vuelo-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 157,
@@ -284,17 +311,19 @@
     "timeWeek": 165,
     "timeMonth": 178,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "Admin MeVuelo CO",
     "url": "https://admin.mevuelo.com.co",
     "icon": "https://icons.duckduckgo.com/ip3/admin.mevuelo.com.co.ico",
     "slug": "admin-me-vuelo-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
@@ -302,17 +331,19 @@
     "timeWeek": 95,
     "timeMonth": 130,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "MeVuelo CO (testing)",
     "url": "https://mv-colombia-testing.travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/mv-colombia-testing.travelonux.com.ico",
     "slug": "me-vuelo-co-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
@@ -320,17 +351,19 @@
     "timeWeek": 199,
     "timeMonth": 180,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 1
+    }
   },
   {
     "name": "Admin MeVuelo CO (testing)",
     "url": "https://admin-mv-colombia-testing.travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/admin-mv-colombia-testing.travelonux.com.ico",
     "slug": "admin-me-vuelo-co-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
@@ -338,17 +371,19 @@
     "timeWeek": 608,
     "timeMonth": 292,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 2
+    }
   },
   {
     "name": "Power (production)",
     "url": "https://power.mevuelo.com",
     "icon": "https://icons.duckduckgo.com/ip3/power.mevuelo.com.ico",
     "slug": "power-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 633,
@@ -356,25 +391,29 @@
     "timeWeek": 611,
     "timeMonth": 616,
     "timeYear": 618,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 2
+    }
   },
   {
     "name": "Power (testing)",
     "url": "https://power-testing.travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/power-testing.travelonux.com.ico",
     "slug": "power-testing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
+    "time": 121,
     "timeDay": 74,
     "timeWeek": 169,
     "timeMonth": 117,
     "timeYear": 120,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-27": 2
+    }
   },
   {
     "name": "MeVuelo Core API (production) EKS",
@@ -508,7 +547,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.core.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-core-api-testing-eks",
     "status": "down",
-    "uptime": "30.09%",
+    "uptime": "30.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -519,7 +558,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 16,
+      "2026-01-27": 496,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -892,7 +931,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.flights.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-flights-api-testing-eks",
     "status": "down",
-    "uptime": "30.31%",
+    "uptime": "30.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -903,7 +942,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 16,
+      "2026-01-27": 496,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -1276,7 +1315,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.hotels.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-hotels-api-testing-eks",
     "status": "down",
-    "uptime": "27.30%",
+    "uptime": "27.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1287,7 +1326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 16,
+      "2026-01-27": 496,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -1660,7 +1699,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.hotels-proxy.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-hotels-proxy-api-testing-eks",
     "status": "down",
-    "uptime": "30.31%",
+    "uptime": "30.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1671,7 +1710,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 16,
+      "2026-01-27": 496,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -2044,7 +2083,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.packages.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-packages-api-testing-eks",
     "status": "down",
-    "uptime": "30.31%",
+    "uptime": "30.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2055,7 +2094,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 16,
+      "2026-01-27": 497,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -2428,7 +2467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.crm.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-crm-api-testing-eks",
     "status": "down",
-    "uptime": "30.31%",
+    "uptime": "30.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2439,7 +2478,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 16,
+      "2026-01-27": 497,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -2812,7 +2851,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/destinations-cms.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-destinations-api-testing-eks",
     "status": "down",
-    "uptime": "30.31%",
+    "uptime": "30.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2823,7 +2862,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 16,
+      "2026-01-27": 497,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
@@ -3196,7 +3235,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sales-order.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-sales-order-testing-eks",
     "status": "down",
-    "uptime": "28.42%",
+    "uptime": "28.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3207,7 +3246,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-27": 16,
+      "2026-01-27": 497,
       "2026-01-26": 1440,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
