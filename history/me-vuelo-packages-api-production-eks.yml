@@ -1,7 +1,7 @@
 url: https://api.packages.mevuelo.com/status
 status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-02-11T08:26:09.641Z
+code: 504
+responseTime: 10261
+lastUpdated: 2026-02-11T23:12:35.706Z
 startTime: 2024-03-11T20:44:40.311Z
 generator: Upptime <https://github.com/upptime/upptime>
