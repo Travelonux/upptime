@@ -1,7 +1,7 @@
 url: https://api.packages.mevuelo.com/v1/mevuelo/frontend/packages/healthcheck?departure=TODOS&api_key=6ff34ba1-d58b-4dfe-af2e-cc234c832ad0&resolution=1
-status: down
-code: 504
-responseTime: 10055
-lastUpdated: 2026-02-11T23:18:44.002Z
+status: up
+code: 200
+responseTime: 1240
+lastUpdated: 2026-02-12T02:18:38.706Z
 startTime: 2023-10-06T21:33:52.001Z
 generator: Upptime <https://github.com/upptime/upptime>
