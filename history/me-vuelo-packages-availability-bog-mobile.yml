@@ -1,7 +1,7 @@
 url: https://api.packages.mevuelo.com/v1/mevuelo/frontend/packages/healthcheck?departure=BOG&api_key=fc3394e4-1c2d-11ed-861d-0242ac120002&resolution=1
-status: down
-code: 504
-responseTime: 10060
-lastUpdated: 2026-02-11T23:15:11.506Z
+status: up
+code: 200
+responseTime: 1493
+lastUpdated: 2026-02-12T02:18:14.308Z
 startTime: 2024-03-11T20:45:02.384Z
 generator: Upptime <https://github.com/upptime/upptime>
