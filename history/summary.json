@@ -566,19 +566,19 @@
     "url": "https://destinations-cms.mevuelo.com",
     "icon": "https://icons.duckduckgo.com/ip3/destinations-cms.mevuelo.com.ico",
     "slug": "me-vuelo-destinations-api-production-eks",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "3.79%",
-    "uptimeWeek": "66.76%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "6.77%",
+    "uptimeWeek": "66.75%",
     "uptimeMonth": "92.35%",
     "uptimeYear": "99.36%",
     "time": 232,
-    "timeDay": 274,
-    "timeWeek": 863,
-    "timeMonth": 471,
-    "timeYear": 236,
+    "timeDay": 257,
+    "timeWeek": 821,
+    "timeMonth": 463,
+    "timeYear": 235,
     "dailyMinutesDown": {
-      "2026-02-13": 1049,
+      "2026-02-13": 1050,
       "2026-02-12": 1369,
       "2026-02-11": 933
     }
@@ -600,7 +600,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 1081,
+      "2026-02-13": 1125,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -984,7 +984,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 1081,
+      "2026-02-13": 1125,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -1368,7 +1368,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 1081,
+      "2026-02-13": 1125,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -1752,7 +1752,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 1081,
+      "2026-02-13": 1125,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -2136,7 +2136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 1081,
+      "2026-02-13": 1125,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -2520,7 +2520,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 1081,
+      "2026-02-13": 1125,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -2904,7 +2904,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 1081,
+      "2026-02-13": 1125,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -3288,7 +3288,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-13": 1081,
+      "2026-02-13": 1125,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
