@@ -1,7 +1,7 @@
 url: https://api.packages.mevuelo.com/v1/mevuelo/frontend/packages/healthcheck?departure=VVI&api_key=8f41e23a-b78f-4222-83f6-803eb132ad33&resolution=1
 status: up
 code: 200
-responseTime: 31
-lastUpdated: 2026-02-15T23:07:12.403Z
+responseTime: 67
+lastUpdated: 2026-02-16T23:08:29.709Z
 startTime: 2024-03-11T20:45:18.244Z
 generator: Upptime <https://github.com/upptime/upptime>
