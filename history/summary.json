@@ -260,7 +260,7 @@
     "timeDay": 199,
     "timeWeek": 190,
     "timeMonth": 232,
-    "timeYear": 287,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2026-02-11": 469,
       "2026-01-27": 644
@@ -344,7 +344,7 @@
     "timeDay": 63,
     "timeWeek": 133,
     "timeMonth": 102,
-    "timeYear": 123,
+    "timeYear": 121,
     "dailyMinutesDown": {
       "2026-02-11": 469,
       "2026-01-27": 644
@@ -565,19 +565,19 @@
     "url": "https://destinations-cms.mevuelo.com",
     "icon": "https://icons.duckduckgo.com/ip3/destinations-cms.mevuelo.com.ico",
     "slug": "me-vuelo-destinations-api-production-eks",
-    "status": "down",
+    "status": "up",
     "uptime": "97.52%",
-    "uptimeDay": "5.73%",
-    "uptimeWeek": "7.13%",
-    "uptimeMonth": "41.00%",
+    "uptimeDay": "5.80%",
+    "uptimeWeek": "7.14%",
+    "uptimeMonth": "40.98%",
     "uptimeYear": "95.08%",
     "time": 219,
-    "timeDay": 203,
-    "timeWeek": 218,
+    "timeDay": 212,
+    "timeWeek": 219,
     "timeMonth": 250,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-03-04": 1290,
+      "2026-03-04": 1301,
       "2026-03-03": 1426,
       "2026-03-02": 1262,
       "2026-03-01": 1299,
@@ -616,7 +616,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 1373,
+      "2026-03-04": 1385,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -1000,7 +1000,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 1373,
+      "2026-03-04": 1385,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -1384,7 +1384,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 1373,
+      "2026-03-04": 1385,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -1768,7 +1768,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 1373,
+      "2026-03-04": 1385,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -2152,7 +2152,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 1373,
+      "2026-03-04": 1385,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -2536,7 +2536,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 1373,
+      "2026-03-04": 1385,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -2920,7 +2920,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 1373,
+      "2026-03-04": 1385,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -3304,7 +3304,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-04": 1373,
+      "2026-03-04": 1385,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -3686,7 +3686,7 @@
     "timeDay": 2305,
     "timeWeek": 375,
     "timeMonth": 693,
-    "timeYear": 394,
+    "timeYear": 395,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 932,
@@ -3708,7 +3708,7 @@
     "timeDay": 2349,
     "timeWeek": 384,
     "timeMonth": 837,
-    "timeYear": 540,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 932,
@@ -3730,7 +3730,7 @@
     "timeDay": 1083,
     "timeWeek": 205,
     "timeMonth": 689,
-    "timeYear": 402,
+    "timeYear": 403,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 931,
@@ -3752,7 +3752,7 @@
     "timeDay": 2349,
     "timeWeek": 384,
     "timeMonth": 837,
-    "timeYear": 540,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 932,
@@ -3774,7 +3774,7 @@
     "timeDay": 3385,
     "timeWeek": 531,
     "timeMonth": 1177,
-    "timeYear": 832,
+    "timeYear": 834,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 931,
@@ -3796,7 +3796,7 @@
     "timeDay": 2349,
     "timeWeek": 384,
     "timeMonth": 837,
-    "timeYear": 540,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 932,
@@ -3840,7 +3840,7 @@
     "timeDay": 2349,
     "timeWeek": 384,
     "timeMonth": 837,
-    "timeYear": 540,
+    "timeYear": 541,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 932,
@@ -3880,7 +3880,7 @@
     "timeDay": 1219,
     "timeWeek": 219,
     "timeMonth": 656,
-    "timeYear": 307,
+    "timeYear": 308,
     "dailyMinutesDown": {}
   }
 ]
