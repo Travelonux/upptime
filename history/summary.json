@@ -565,19 +565,19 @@
     "url": "https://destinations-cms.mevuelo.com",
     "icon": "https://icons.duckduckgo.com/ip3/destinations-cms.mevuelo.com.ico",
     "slug": "me-vuelo-destinations-api-production-eks",
-    "status": "up",
-    "uptime": "97.51%",
-    "uptimeDay": "9.57%",
-    "uptimeWeek": "7.92%",
-    "uptimeMonth": "40.83%",
-    "uptimeYear": "95.07%",
+    "status": "down",
+    "uptime": "97.52%",
+    "uptimeDay": "10.79%",
+    "uptimeWeek": "8.10%",
+    "uptimeMonth": "40.93%",
+    "uptimeYear": "95.08%",
     "time": 219,
-    "timeDay": 200,
-    "timeWeek": 216,
-    "timeMonth": 249,
+    "timeDay": 197,
+    "timeWeek": 215,
+    "timeMonth": 248,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-03-05": 562,
+      "2026-03-05": 563,
       "2026-03-04": 1321,
       "2026-03-03": 1426,
       "2026-03-02": 1262,
@@ -597,7 +597,7 @@
       "2026-02-16": 1294,
       "2026-02-15": 1346,
       "2026-02-14": 1236,
-      "2026-02-13": 90
+      "2026-02-13": 45
     }
   },
   {
@@ -617,7 +617,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 606,
+      "2026-03-05": 624,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -1001,7 +1001,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 606,
+      "2026-03-05": 624,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -1385,7 +1385,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 606,
+      "2026-03-05": 624,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -1758,7 +1758,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.hotels-proxy.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-hotels-proxy-api-testing-eks",
     "status": "down",
-    "uptime": "28.75%",
+    "uptime": "28.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1769,7 +1769,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 606,
+      "2026-03-05": 624,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -2153,7 +2153,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 606,
+      "2026-03-05": 624,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -2537,7 +2537,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 606,
+      "2026-03-05": 624,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -2910,7 +2910,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/destinations-cms.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-destinations-api-testing-eks",
     "status": "down",
-    "uptime": "28.75%",
+    "uptime": "28.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -2921,7 +2921,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 606,
+      "2026-03-05": 624,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
@@ -3305,7 +3305,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-05": 606,
+      "2026-03-05": 624,
       "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
