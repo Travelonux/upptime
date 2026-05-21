@@ -1,7 +1,7 @@
 url: https://api.packages.mevuelo.com/v1/mevuelo/frontend/packages/healthcheck?departure=MVD&api_key=60f8b35a-2e1e-48d3-939f-41dece9aa5d4&resolution=1
 status: up
 code: 200
-responseTime: 3636
-lastUpdated: 2026-05-20T23:32:06.055Z
+responseTime: 2124
+lastUpdated: 2026-05-21T23:27:22.374Z
 startTime: 2022-03-16T20:54:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
