@@ -4,16 +4,16 @@
     "url": "https://travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/travelonux.com.ico",
     "slug": "landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.83%",
-    "uptimeDay": "94.09%",
-    "uptimeWeek": "92.93%",
-    "uptimeMonth": "98.37%",
-    "uptimeYear": "99.64%",
-    "time": 278,
-    "timeDay": 322,
-    "timeWeek": 361,
-    "timeMonth": 472,
+    "uptimeDay": "89.31%",
+    "uptimeWeek": "92.25%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "99.62%",
+    "time": 279,
+    "timeDay": 345,
+    "timeWeek": 367,
+    "timeMonth": 473,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2026-01-27": 644,
@@ -23,7 +23,7 @@
       "2026-06-02": 169,
       "2026-06-03": 306,
       "2026-06-04": 235,
-      "2026-06-05": 3
+      "2026-06-05": 72
     }
   },
   {
@@ -615,7 +615,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 857,
+      "2026-06-05": 929,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -988,7 +988,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.flights.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-flights-api-testing-eks",
     "status": "down",
-    "uptime": "25.50%",
+    "uptime": "25.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -999,7 +999,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 857,
+      "2026-06-05": 929,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -1383,7 +1383,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 857,
+      "2026-06-05": 929,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -1767,7 +1767,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 857,
+      "2026-06-05": 929,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -2140,7 +2140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.packages.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-packages-api-testing-eks",
     "status": "down",
-    "uptime": "25.50%",
+    "uptime": "25.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -2151,7 +2151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 857,
+      "2026-06-05": 929,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -2535,7 +2535,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 857,
+      "2026-06-05": 929,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -2919,7 +2919,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 857,
+      "2026-06-05": 929,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -3303,7 +3303,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-05": 857,
+      "2026-06-05": 929,
       "2026-06-04": 1440,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
