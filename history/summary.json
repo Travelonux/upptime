@@ -4,17 +4,17 @@
     "url": "https://travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/travelonux.com.ico",
     "slug": "landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "93.04%",
-    "uptimeWeek": "93.93%",
-    "uptimeMonth": "96.46%",
+    "uptimeDay": "92.81%",
+    "uptimeWeek": "93.89%",
+    "uptimeMonth": "96.45%",
     "uptimeYear": "99.48%",
     "time": 270,
-    "timeDay": 286,
-    "timeWeek": 336,
-    "timeMonth": 395,
-    "timeYear": 318,
+    "timeDay": 251,
+    "timeWeek": 326,
+    "timeMonth": 390,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2026-01-27": 644,
       "2026-02-11": 513,
@@ -30,7 +30,7 @@
       "2026-06-10": 116,
       "2026-06-11": 284,
       "2026-06-12": 41,
-      "2026-06-13": 59
+      "2026-06-13": 62
     }
   },
   {
@@ -438,7 +438,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.core.mevuelo.com.ico",
     "slug": "me-vuelo-core-api-production-eks",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
@@ -611,7 +611,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.core.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-core-api-testing-eks",
     "status": "down",
-    "uptime": "25.07%",
+    "uptime": "25.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -622,7 +622,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 618,
+      "2026-06-13": 745,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1006,7 +1006,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 618,
+      "2026-06-13": 745,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1390,7 +1390,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 618,
+      "2026-06-13": 746,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -1774,7 +1774,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 618,
+      "2026-06-13": 746,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -2158,7 +2158,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 618,
+      "2026-06-13": 746,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -2542,7 +2542,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 618,
+      "2026-06-13": 746,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -2926,7 +2926,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 618,
+      "2026-06-13": 746,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
@@ -3310,7 +3310,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-13": 618,
+      "2026-06-13": 746,
       "2026-06-12": 1440,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
