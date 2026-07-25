@@ -444,11 +444,11 @@
     "url": "https://api.core.mevuelo.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.core.mevuelo.com.ico",
     "slug": "me-vuelo-core-api-production-eks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.53%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.77%",
     "time": 245,
     "timeDay": 310,
@@ -459,7 +459,8 @@
       "2026-02-12": 138,
       "2026-02-11": 936,
       "2026-06-03": 96,
-      "2026-06-02": 14
+      "2026-06-02": 14,
+      "2026-07-25": 21
     }
   },
   {
@@ -467,12 +468,12 @@
     "url": "https://api.flights.mevuelo.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.flights.mevuelo.com.ico",
     "slug": "me-vuelo-flights-api-production-eks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.63%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.77%",
     "time": 243,
     "timeDay": 265,
     "timeWeek": 231,
@@ -482,7 +483,8 @@
       "2026-02-12": 138,
       "2026-02-11": 935,
       "2026-06-03": 97,
-      "2026-06-02": 7
+      "2026-06-02": 7,
+      "2026-07-25": 14
     }
   },
   {
@@ -490,11 +492,11 @@
     "url": "https://api.hotels.mevuelo.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.hotels.mevuelo.com.ico",
     "slug": "me-vuelo-hotels-api-production-eks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.77%",
     "time": 236,
     "timeDay": 268,
@@ -505,7 +507,8 @@
       "2026-02-12": 138,
       "2026-02-11": 935,
       "2026-04-02": 27,
-      "2026-06-03": 96
+      "2026-06-03": 96,
+      "2026-07-25": 7
     }
   },
   {
@@ -629,7 +632,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 31,
+      "2026-07-25": 170,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1013,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 31,
+      "2026-07-25": 170,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1397,7 +1400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 31,
+      "2026-07-25": 170,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1781,7 +1784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 31,
+      "2026-07-25": 170,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -2165,7 +2168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 31,
+      "2026-07-25": 170,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -2549,7 +2552,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 31,
+      "2026-07-25": 170,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -2933,7 +2936,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 31,
+      "2026-07-25": 170,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -3317,7 +3320,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 31,
+      "2026-07-25": 170,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
