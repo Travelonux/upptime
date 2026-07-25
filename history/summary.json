@@ -444,23 +444,23 @@
     "url": "https://api.core.mevuelo.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.core.mevuelo.com.ico",
     "slug": "me-vuelo-core-api-production-eks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "95.23%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.76%",
     "time": 245,
-    "timeDay": 310,
-    "timeWeek": 223,
-    "timeMonth": 208,
-    "timeYear": 256,
+    "timeDay": 221,
+    "timeWeek": 211,
+    "timeMonth": 206,
+    "timeYear": 255,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 936,
       "2026-06-03": 96,
       "2026-06-02": 14,
-      "2026-07-25": 21
+      "2026-07-25": 69
     }
   },
   {
@@ -468,23 +468,23 @@
     "url": "https://api.flights.mevuelo.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.flights.mevuelo.com.ico",
     "slug": "me-vuelo-flights-api-production-eks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.76%",
     "time": 243,
-    "timeDay": 265,
-    "timeWeek": 231,
-    "timeMonth": 205,
+    "timeDay": 229,
+    "timeWeek": 226,
+    "timeMonth": 204,
     "timeYear": 254,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 935,
       "2026-06-03": 97,
       "2026-06-02": 7,
-      "2026-07-25": 14
+      "2026-07-25": 62
     }
   },
   {
@@ -492,23 +492,23 @@
     "url": "https://api.hotels.mevuelo.com/status",
     "icon": "https://icons.duckduckgo.com/ip3/api.hotels.mevuelo.com.ico",
     "slug": "me-vuelo-hotels-api-production-eks",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.52%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.77%",
+    "uptimeDay": "96.22%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.88%",
+    "uptimeYear": "99.76%",
     "time": 236,
-    "timeDay": 268,
-    "timeWeek": 225,
-    "timeMonth": 199,
+    "timeDay": 238,
+    "timeWeek": 223,
+    "timeMonth": 200,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2026-02-12": 138,
       "2026-02-11": 935,
       "2026-04-02": 27,
       "2026-06-03": 96,
-      "2026-07-25": 7
+      "2026-07-25": 54
     }
   },
   {
@@ -632,7 +632,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 170,
+      "2026-07-25": 221,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1016,7 +1016,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 170,
+      "2026-07-25": 221,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1400,7 +1400,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 170,
+      "2026-07-25": 221,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -1784,7 +1784,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 170,
+      "2026-07-25": 221,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -2168,7 +2168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 170,
+      "2026-07-25": 221,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -2552,7 +2552,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 170,
+      "2026-07-25": 221,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -2936,7 +2936,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 170,
+      "2026-07-25": 221,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
@@ -3320,7 +3320,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-25": 170,
+      "2026-07-25": 221,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
