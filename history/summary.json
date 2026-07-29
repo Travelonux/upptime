@@ -4,16 +4,16 @@
     "url": "https://travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/travelonux.com.ico",
     "slug": "landing",
-    "status": "down",
-    "uptime": "99.78%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.47%",
-    "uptimeYear": "99.35%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "98.86%",
+    "uptimeMonth": "99.34%",
+    "uptimeYear": "99.34%",
     "time": 303,
-    "timeDay": 333,
-    "timeWeek": 464,
-    "timeMonth": 474,
+    "timeDay": 394,
+    "timeWeek": 468,
+    "timeMonth": 475,
     "timeYear": 358,
     "dailyMinutesDown": {
       "2026-01-27": 644,
@@ -39,7 +39,7 @@
       "2026-07-01": 92,
       "2026-07-04": 44,
       "2026-07-28": 52,
-      "2026-07-29": 3
+      "2026-07-29": 63
     }
   },
   {
@@ -585,7 +585,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/destinations-cms.mevuelo.com.ico",
     "slug": "me-vuelo-destinations-api-production-eks",
     "status": "up",
-    "uptime": "98.18%",
+    "uptime": "98.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -634,7 +634,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 290,
+      "2026-07-29": 353,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1018,7 +1018,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 290,
+      "2026-07-29": 353,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1402,7 +1402,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 290,
+      "2026-07-29": 353,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -1786,7 +1786,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 290,
+      "2026-07-29": 353,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -2170,7 +2170,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 290,
+      "2026-07-29": 353,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -2543,7 +2543,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.crm.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-crm-api-testing-eks",
     "status": "down",
-    "uptime": "23.93%",
+    "uptime": "23.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -2554,7 +2554,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 290,
+      "2026-07-29": 353,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -2938,7 +2938,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 290,
+      "2026-07-29": 353,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
@@ -3322,7 +3322,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-29": 291,
+      "2026-07-29": 353,
       "2026-07-28": 1440,
       "2026-07-27": 1440,
       "2026-07-26": 1440,
