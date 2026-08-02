@@ -4,16 +4,16 @@
     "url": "https://travelonux.com",
     "icon": "https://icons.duckduckgo.com/ip3/travelonux.com.ico",
     "slug": "landing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "98.83%",
-    "uptimeMonth": "99.63%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.34%",
-    "time": 306,
-    "timeDay": 277,
-    "timeWeek": 457,
-    "timeMonth": 494,
+    "time": 307,
+    "timeDay": 331,
+    "timeWeek": 456,
+    "timeMonth": 493,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2026-01-27": 644,
@@ -40,7 +40,7 @@
       "2026-07-04": 44,
       "2026-07-28": 52,
       "2026-07-29": 63,
-      "2026-08-02": 3
+      "2026-08-02": 33
     }
   },
   {
@@ -635,7 +635,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 660,
+      "2026-08-02": 694,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1019,7 +1019,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 660,
+      "2026-08-02": 694,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1403,7 +1403,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 660,
+      "2026-08-02": 694,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -1787,7 +1787,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 660,
+      "2026-08-02": 694,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -2171,7 +2171,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 660,
+      "2026-08-02": 694,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -2555,7 +2555,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 660,
+      "2026-08-02": 694,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -2939,7 +2939,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 660,
+      "2026-08-02": 694,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
@@ -3312,7 +3312,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.sales-order.eks.testing.travelonux.com.ico",
     "slug": "me-vuelo-sales-order-testing-eks",
     "status": "down",
-    "uptime": "22.33%",
+    "uptime": "22.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -3323,7 +3323,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-02": 660,
+      "2026-08-02": 694,
       "2026-08-01": 1440,
       "2026-07-31": 1440,
       "2026-07-30": 1440,
