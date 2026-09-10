@@ -1,7 +1,7 @@
 url: https://api.crm.mevuelo.com/healthcheck
-status: down
-code: 503
-responseTime: 273
-lastUpdated: 2026-09-10T03:28:08.944Z
+status: up
+code: 200
+responseTime: 1720
+lastUpdated: 2026-09-10T05:29:12.735Z
 startTime: 2024-03-11T20:44:41.711Z
 generator: Upptime <https://github.com/upptime/upptime>
