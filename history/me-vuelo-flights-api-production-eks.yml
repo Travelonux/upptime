@@ -1,7 +1,7 @@
 url: https://api.flights.mevuelo.com/status
-status: down
-code: 503
-responseTime: 242
-lastUpdated: 2026-09-10T03:27:05.143Z
+status: up
+code: 200
+responseTime: 274
+lastUpdated: 2026-09-10T05:28:57.897Z
 startTime: 2024-03-11T20:44:34.707Z
 generator: Upptime <https://github.com/upptime/upptime>
